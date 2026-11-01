@@ -1,155 +1,6 @@
 [
   {
     "modello": "AUDI A1 allstreet 30 TFSI S tronic Identity Contrast",
-    "numero_pratica": "79878",
-    "alimentazione": "Benzina",
-    "potenza": "116 CV(85 kW)",
-    "colore_esterno": "Argento Cavo Metallizzato Nero Mito Meta",
-    "chilometraggio": null,
-    "chilometraggio_km": null,
-    "immatricolazione": null,
-    "prezzo_euro": 35130,
-    "accessori": [
-      "Attrezzi di bordo e cric",
-      "Audi drive select",
-      "Audi phone box light",
-      "Audi virtual cockpit",
-      "Cerchi, design a 5 razze, Grigio Grafite, torniti lucidi, 7,5J x 18,",
-      "Chiave comfort, senza SAFELOCK",
-      "Eliminate denominazione modello e scritta prestazioni/tecnologia",
-      "Fari a LED e fanali di coda a LED plus",
-      "Inserti decorativi a struttura poligonale vernice fine Grigio Ardesia",
-      "Numero di gestione interno",
-      "Pacchetto contrasto 1",
-      "Pacchetto equipaggiamenti Italia",
-      "Pacchetto equipaggiamenti per l'Italia",
-      "Pacchetto Estetico Nero plus",
-      "Pacchetto Luci Ambiente",
-      "Pacchetto Vano bagagli",
-      "Pacchetto Vano portaoggetti",
-      "Regolatore automatico della distanza adattivo",
-      "Retrocamera",
-      "Ruota di scorta minispare",
-      "Sedile del passeggero regolabile in altezza",
-      "Sistema di controllo per il parcheggio plus",
-      "Superfici decorative vernice diamantata Grigio Argento",
-      "Tappetini anteriori e posteriori",
-      "Tessuto DebOt",
-      "Volante in pelle a 3 razze multifunzionale plus con bilancieri",
-      "ABS",
-      "Airbag guida",
-      "Airbag laterali",
-      "Airbag passeggero",
-      "Airbag per la testa",
-      "Assistente attivo mantenimento traiettoria",
-      "Autoradio",
-      "Bluetooth",
-      "Bracciolo sedili anteriori",
-      "Cerchi in lega",
-      "Chiusura centralizzata",
-      "Climatizzatore",
-      "Connessione dati",
-      "Controllo automatico adattivo della velocità",
-      "Controllo elettronico della stabilità",
-      "Correttore assetto fari",
-      "Fari anteriori a LED",
-      "Frenata automatica di emergenza",
-      "Immobilizzatore",
-      "Pretensionatore cinture",
-      "Radio DAB",
-      "Retrovisori elettrici",
-      "Retrovisori ripiegabili elettricamente",
-      "Riconoscimento segnali stradali",
-      "Sedile guida regolabile in altezza",
-      "Sedile posteriore sdoppiato",
-      "Sensore luci",
-      "Sensore pioggia",
-      "Sensori di parcheggio posteriori",
-      "Servosterzo",
-      "Sistema di detezione distrazione del guidatore",
-      "Vetri elettrici anteriori",
-      "Vetri elettrici posteriori"
-    ],
-    "numero_accessori": 59,
-    "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a1-allstreet/a1-allstreet-30-tfsi-s-tronic-identity-contrast-4627546/",
-    "data_aggiornamento": "2026-10-31T06:45:51.138412+00:00"
-  },
-  {
-    "modello": "AUDI A1 allstreet 30 TFSI S tronic Identity Contrast",
-    "numero_pratica": "81631",
-    "alimentazione": "Benzina",
-    "potenza": "116 CV(85 kW)",
-    "colore_esterno": "Rosso Progressivo Metallizzato Nero Mito",
-    "chilometraggio": null,
-    "chilometraggio_km": null,
-    "immatricolazione": null,
-    "prezzo_euro": 35130,
-    "accessori": [
-      "Attrezzi di bordo e cric",
-      "Audi drive select",
-      "Audi phone box light",
-      "Audi virtual cockpit",
-      "Cerchi, design a 5 razze, Grigio Grafite, torniti lucidi, 7,5J x 18,",
-      "Chiave comfort, senza SAFELOCK",
-      "Fari a LED e fanali di coda a LED plus",
-      "Inserti decorativi a struttura poligonale vernice fine Grigio Ardesia",
-      "Numero di gestione interno",
-      "Pacchetto contrasto 1",
-      "Pacchetto equipaggiamenti Italia",
-      "Pacchetto equipaggiamenti per l'Italia",
-      "Pacchetto Estetico Nero plus",
-      "Pacchetto Luci Ambiente",
-      "Pacchetto Vano bagagli",
-      "Pacchetto Vano portaoggetti",
-      "Regolatore automatico della distanza adattivo",
-      "Retrocamera",
-      "Ruota di scorta minispare",
-      "Sedile del passeggero regolabile in altezza",
-      "Sistema di controllo per il parcheggio plus",
-      "Superfici decorative vernice diamantata Grigio Argento",
-      "Tappetini anteriori e posteriori",
-      "Tessuto DebOt",
-      "Volante in pelle a 3 razze multifunzionale plus con bilancieri",
-      "ABS",
-      "Airbag guida",
-      "Airbag laterali",
-      "Airbag passeggero",
-      "Airbag per la testa",
-      "Assistente attivo mantenimento traiettoria",
-      "Autoradio",
-      "Bluetooth",
-      "Bracciolo sedili anteriori",
-      "Cerchi in lega",
-      "Chiusura centralizzata",
-      "Climatizzatore",
-      "Connessione dati",
-      "Controllo automatico adattivo della velocità",
-      "Controllo elettronico della stabilità",
-      "Correttore assetto fari",
-      "Fari anteriori a LED",
-      "Frenata automatica di emergenza",
-      "Immobilizzatore",
-      "Pretensionatore cinture",
-      "Radio DAB",
-      "Retrovisori elettrici",
-      "Retrovisori ripiegabili elettricamente",
-      "Riconoscimento segnali stradali",
-      "Sedile guida regolabile in altezza",
-      "Sedile posteriore sdoppiato",
-      "Sensore luci",
-      "Sensore pioggia",
-      "Sensori di parcheggio posteriori",
-      "Servosterzo",
-      "Sistema di detezione distrazione del guidatore",
-      "Vetri elettrici anteriori",
-      "Vetri elettrici posteriori"
-    ],
-    "numero_accessori": 58,
-    "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a1-allstreet/a1-allstreet-30-tfsi-s-tronic-identity-contrast-4663252/",
-    "data_aggiornamento": "2026-10-31T06:45:52.886448+00:00"
-  },
-  {
-    "modello": "AUDI A1 allstreet 30 TFSI S tronic Identity Contrast",
     "numero_pratica": "81623",
     "alimentazione": "Benzina",
     "potenza": "116 CV(85 kW)",
@@ -220,73 +71,7 @@
     ],
     "numero_accessori": 58,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a1-allstreet/a1-allstreet-30-tfsi-s-tronic-identity-contrast-4670813/",
-    "data_aggiornamento": "2026-10-31T06:45:54.611743+00:00"
-  },
-  {
-    "modello": "AUDI A1 SPB 30 TFSI Business",
-    "numero_pratica": "81644",
-    "alimentazione": "Benzina",
-    "potenza": "116 CV(85 kW)",
-    "colore_esterno": "Nero Mito Metallizzato",
-    "chilometraggio": null,
-    "chilometraggio_km": null,
-    "immatricolazione": null,
-    "prezzo_euro": 30050,
-    "accessori": [
-      "Attrezzi di bordo e cric",
-      "Audi phone box light",
-      "Cerchi, design a 10 razze, 6,5J x 16, pneumatici specifici per modello",
-      "Chiave comfort, senza SAFELOCK",
-      "Eliminate denominazione modello e scritta prestazioni/tecnologia",
-      "Fanali di coda a LED",
-      "Numero di gestione interno",
-      "Pacchetto equipaggiamenti per l'Italia",
-      "Pacchetto Luci Ambiente",
-      "Pacchetto Vano bagagli",
-      "Pacchetto Vano portaoggetti",
-      "Regolatore automatico della distanza adattivo",
-      "Retrocamera",
-      "Ruota di scorta minispare",
-      "Sistema di assistenza alla partenza in salita",
-      "Sistema di controllo per il parcheggio plus",
-      "Tappetini anteriori e posteriori",
-      "Volante in pelle a 3 razze multifunzionale plus",
-      "ABS",
-      "Airbag guida",
-      "Airbag laterali",
-      "Airbag passeggero",
-      "Airbag per la testa",
-      "Assistente attivo mantenimento traiettoria",
-      "Autoradio",
-      "Bluetooth",
-      "Bracciolo sedili anteriori",
-      "Cerchi in lega",
-      "Chiusura centralizzata",
-      "Climatizzatore",
-      "Connessione dati",
-      "Controllo automatico adattivo della velocità",
-      "Controllo elettronico della stabilità",
-      "Correttore assetto fari",
-      "Frenata automatica di emergenza",
-      "Immobilizzatore",
-      "Pretensionatore cinture",
-      "Radio DAB",
-      "Retrovisori elettrici",
-      "Retrovisori ripiegabili elettricamente",
-      "Riconoscimento segnali stradali",
-      "Sedile guida regolabile in altezza",
-      "Sedile posteriore sdoppiato",
-      "Sensore luci",
-      "Sensore pioggia",
-      "Servosterzo",
-      "Sistema di detezione distrazione del guidatore",
-      "Tergilunotto",
-      "Vetri elettrici anteriori",
-      "Vetri elettrici posteriori"
-    ],
-    "numero_accessori": 50,
-    "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a1-sportback/a1-spb-30-tfsi-business-4791898/",
-    "data_aggiornamento": "2026-10-31T06:45:56.350635+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:31.697237+00:00"
   },
   {
     "modello": "AUDI A3 allstreet e-Hybrid 150 kW S tronic Business Advanced",
@@ -352,7 +137,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-e-hybrid-150-kw-s-tronic-business-advanced-4804660/",
-    "data_aggiornamento": "2026-10-31T06:45:58.101321+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:33.419663+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 110 kW S tronic Business Advanced",
@@ -419,7 +204,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-110-kw-s-tronic-business-advanced-4699733/",
-    "data_aggiornamento": "2026-10-31T06:45:59.846189+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:35.132728+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 110 kW S tronic Business Advanced",
@@ -486,7 +271,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-110-kw-s-tronic-business-advanced-4704540/",
-    "data_aggiornamento": "2026-10-31T06:46:01.888735+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:36.862262+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 110 kW S tronic Business Advanced",
@@ -553,7 +338,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-110-kw-s-tronic-business-advanced-4707868/",
-    "data_aggiornamento": "2026-10-31T06:46:03.620274+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:38.579100+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 110 kW S tronic Identity Contrast",
@@ -625,7 +410,7 @@
     ],
     "numero_accessori": 56,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-110-kw-s-tronic-identity-contrast-4685996/",
-    "data_aggiornamento": "2026-10-31T06:46:05.352828+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:40.377152+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 110 kW S tronic Identity Contrast",
@@ -698,7 +483,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-110-kw-s-tronic-identity-contrast-4707861/",
-    "data_aggiornamento": "2026-10-31T06:46:07.127002+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:42.100447+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 110 kW S tronic Identity Contrast",
@@ -771,7 +556,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-110-kw-s-tronic-identity-contrast-4707864/",
-    "data_aggiornamento": "2026-10-31T06:46:08.857911+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:43.811727+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 110 kW S tronic Identity Contrast",
@@ -844,7 +629,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-110-kw-s-tronic-identity-contrast-4709734/",
-    "data_aggiornamento": "2026-10-31T06:46:10.589168+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:45.521365+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 110 kW S tronic Identity Contrast",
@@ -917,7 +702,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-110-kw-s-tronic-identity-contrast-4748501/",
-    "data_aggiornamento": "2026-10-31T06:46:12.338795+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:47.222002+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 110 kW S tronic Identity Contrast",
@@ -990,7 +775,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-110-kw-s-tronic-identity-contrast-4768321/",
-    "data_aggiornamento": "2026-10-31T06:46:14.065230+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:48.916155+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 150 kW S tronic Identity Contrast",
@@ -1062,7 +847,7 @@
     ],
     "numero_accessori": 56,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-150-kw-s-tronic-identity-contrast-4690789/",
-    "data_aggiornamento": "2026-10-31T06:46:15.810227+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:50.645781+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 150 kW S tronic Identity Contrast",
@@ -1135,7 +920,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-150-kw-s-tronic-identity-contrast-4714043/",
-    "data_aggiornamento": "2026-10-31T06:46:17.591055+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:52.352497+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI 150 kW S tronic Identity Contrast",
@@ -1208,7 +993,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-150-kw-s-tronic-identity-contrast-4714761/",
-    "data_aggiornamento": "2026-10-31T06:46:19.333970+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:54.068023+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI e 150 kW S tronic Identity Contrast",
@@ -1288,7 +1073,7 @@
     ],
     "numero_accessori": 64,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-e-150-kw-s-tronic-identity-contrast-4678809/",
-    "data_aggiornamento": "2026-10-31T06:46:21.062104+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:55.780776+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI e 150 kW S tronic Identity Contrast",
@@ -1368,7 +1153,7 @@
     ],
     "numero_accessori": 64,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-e-150-kw-s-tronic-identity-contrast-4679621/",
-    "data_aggiornamento": "2026-10-31T06:46:22.799176+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:57.485326+00:00"
   },
   {
     "modello": "AUDI A3 allstreet TFSI e 150 kW S tronic Identity Contrast",
@@ -1448,7 +1233,7 @@
     ],
     "numero_accessori": 64,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-allstreet/a3-allstreet-tfsi-e-150-kw-s-tronic-identity-contrast-4681412/",
-    "data_aggiornamento": "2026-10-31T06:46:24.531256+00:00"
+    "data_aggiornamento": "2026-11-01T06:51:59.220872+00:00"
   },
   {
     "modello": "AUDI A3 Sedan TFSI 85 kW S tronic S Line",
@@ -1512,7 +1297,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sedan/a3-sedan-tfsi-85-kw-s-tronic-s-line-4793987/",
-    "data_aggiornamento": "2026-10-31T06:46:26.298942+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:00.928781+00:00"
   },
   {
     "modello": "AUDI A3 SPB e-Hybrid 150 kW S tronic S Line",
@@ -1581,7 +1366,7 @@
     ],
     "numero_accessori": 53,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-e-hybrid-150-kw-s-tronic-s-line-4793980/",
-    "data_aggiornamento": "2026-10-31T06:46:28.042831+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:02.627295+00:00"
   },
   {
     "modello": "AUDI A3 SPB TDI 110 kW S tronic Business Advanced",
@@ -1645,7 +1430,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tdi-110-kw-s-tronic-business-advanced-4753771/",
-    "data_aggiornamento": "2026-10-31T06:46:29.769506+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:04.529543+00:00"
   },
   {
     "modello": "AUDI A3 SPB TDI 110 kW S tronic Business Advanced",
@@ -1702,7 +1487,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tdi-110-kw-s-tronic-business-advanced-4809176/",
-    "data_aggiornamento": "2026-10-31T06:46:31.498660+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:06.255280+00:00"
   },
   {
     "modello": "AUDI A3 SPB TDI 110 kW S tronic S Line",
@@ -1769,7 +1554,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tdi-110-kw-s-tronic-s-line-4810967/",
-    "data_aggiornamento": "2026-10-31T06:46:33.249464+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:07.990143+00:00"
   },
   {
     "modello": "AUDI A3 SPB TDI 85 kW Business Advanced",
@@ -1828,7 +1613,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tdi-85-kw-business-advanced-4793978/",
-    "data_aggiornamento": "2026-10-31T06:46:35.035255+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:09.704729+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic Business Advanced",
@@ -1888,7 +1673,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-business-advanced-4793985/",
-    "data_aggiornamento": "2026-10-31T06:46:36.768487+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:11.425065+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic Business Advanced",
@@ -1948,7 +1733,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-business-advanced-4793986/",
-    "data_aggiornamento": "2026-10-31T06:46:38.507757+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:13.136262+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic Business Advanced",
@@ -2012,7 +1797,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-business-advanced-4800930/",
-    "data_aggiornamento": "2026-10-31T06:46:40.238645+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:14.860956+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic Business Advanced",
@@ -2073,7 +1858,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-business-advanced-4809986/",
-    "data_aggiornamento": "2026-10-31T06:46:41.969409+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:16.573948+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S Line",
@@ -2145,7 +1930,7 @@
     ],
     "numero_accessori": 56,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-4793981/",
-    "data_aggiornamento": "2026-10-31T06:46:43.696857+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:18.273115+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S Line",
@@ -2216,7 +2001,7 @@
     ],
     "numero_accessori": 55,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-4793982/",
-    "data_aggiornamento": "2026-10-31T06:46:45.429614+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:19.981282+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S Line",
@@ -2287,7 +2072,7 @@
     ],
     "numero_accessori": 55,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-4793983/",
-    "data_aggiornamento": "2026-10-31T06:46:47.180416+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:21.717649+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S Line",
@@ -2359,7 +2144,7 @@
     ],
     "numero_accessori": 56,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-4793984/",
-    "data_aggiornamento": "2026-10-31T06:46:48.905552+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:23.432495+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S Line",
@@ -2432,7 +2217,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-4806486/",
-    "data_aggiornamento": "2026-10-31T06:46:50.638531+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:25.187724+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S Line",
@@ -2505,7 +2290,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-4809177/",
-    "data_aggiornamento": "2026-10-31T06:46:52.374899+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:26.903225+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S line edition",
@@ -2581,7 +2366,7 @@
     ],
     "numero_accessori": 60,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-edition-4706448/",
-    "data_aggiornamento": "2026-10-31T06:46:54.106350+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:28.612620+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S line edition",
@@ -2655,7 +2440,7 @@
     ],
     "numero_accessori": 58,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-edition-4723940/",
-    "data_aggiornamento": "2026-10-31T06:46:55.923792+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:30.322470+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S line edition",
@@ -2730,7 +2515,7 @@
     ],
     "numero_accessori": 59,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-edition-4725527/",
-    "data_aggiornamento": "2026-10-31T06:46:57.658843+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:32.037207+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S line edition",
@@ -2803,7 +2588,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-edition-4743026/",
-    "data_aggiornamento": "2026-10-31T06:46:59.425079+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:33.757021+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 110 kW S tronic S line edition",
@@ -2878,7 +2663,7 @@
     ],
     "numero_accessori": 59,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-110-kw-s-tronic-s-line-edition-4744709/",
-    "data_aggiornamento": "2026-10-31T06:47:01.312871+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:35.488494+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 85 kW S Line",
@@ -2938,7 +2723,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-85-kw-s-line-4809178/",
-    "data_aggiornamento": "2026-10-31T06:47:03.081351+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:37.198017+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 85 kW S Line",
@@ -3000,7 +2785,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-85-kw-s-line-4811995/",
-    "data_aggiornamento": "2026-10-31T06:47:04.821292+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:38.908840+00:00"
   },
   {
     "modello": "AUDI A3 SPB TFSI 85 kW S tronic Business Advanced",
@@ -3060,7 +2845,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a3-sportback/a3-spb-tfsi-85-kw-s-tronic-business-advanced-4793977/",
-    "data_aggiornamento": "2026-10-31T06:47:06.559454+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:40.622076+00:00"
   },
   {
     "modello": "AUDI A5 Avant e-hybrid 220 kW quattro S tronic Business Advanced",
@@ -3119,7 +2904,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-e-hybrid-220-kw-quattro-s-tronic-business-advanced-4724692/",
-    "data_aggiornamento": "2026-10-31T06:47:08.284140+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:42.332060+00:00"
   },
   {
     "modello": "AUDI A5 Avant e-hybrid 220 kW quattro S tronic Business Advanced",
@@ -3178,7 +2963,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-e-hybrid-220-kw-quattro-s-tronic-business-advanced-4727244/",
-    "data_aggiornamento": "2026-10-31T06:47:10.025454+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:44.031092+00:00"
   },
   {
     "modello": "AUDI A5 Avant e-hybrid 220 kW quattro S tronic Business Advanced",
@@ -3237,7 +3022,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-e-hybrid-220-kw-quattro-s-tronic-business-advanced-4737647/",
-    "data_aggiornamento": "2026-10-31T06:47:11.777488+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:45.728257+00:00"
   },
   {
     "modello": "AUDI A5 Avant e-hybrid 220 kW quattro S tronic S Line Edition",
@@ -3319,7 +3104,7 @@
     ],
     "numero_accessori": 66,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-e-hybrid-220-kw-quattro-s-tronic-s-line-edition-4657112/",
-    "data_aggiornamento": "2026-10-31T06:47:13.505730+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:47.424560+00:00"
   },
   {
     "modello": "AUDI A5 Avant e-hybrid 220 kW quattro S tronic S Line Edition",
@@ -3397,7 +3182,7 @@
     ],
     "numero_accessori": 62,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-e-hybrid-220-kw-quattro-s-tronic-s-line-edition-4671557/",
-    "data_aggiornamento": "2026-10-31T06:47:15.246462+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:49.118577+00:00"
   },
   {
     "modello": "AUDI A5 Avant e-hybrid 220 kW quattro S tronic S Line Edition",
@@ -3475,7 +3260,7 @@
     ],
     "numero_accessori": 62,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-e-hybrid-220-kw-quattro-s-tronic-s-line-edition-4675447/",
-    "data_aggiornamento": "2026-10-31T06:47:16.979285+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:50.816675+00:00"
   },
   {
     "modello": "AUDI A5 Avant e-hybrid 220 kW quattro S tronic S Line Edition",
@@ -3551,7 +3336,7 @@
     ],
     "numero_accessori": 60,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-e-hybrid-220-kw-quattro-s-tronic-s-line-edition-4720308/",
-    "data_aggiornamento": "2026-10-31T06:47:18.712197+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:52.559619+00:00"
   },
   {
     "modello": "AUDI A5 Avant e-hybrid 220 kW quattro S tronic S Line Edition",
@@ -3627,7 +3412,7 @@
     ],
     "numero_accessori": 60,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-e-hybrid-220-kw-quattro-s-tronic-s-line-edition-4727242/",
-    "data_aggiornamento": "2026-10-31T06:47:20.456044+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:54.254568+00:00"
   },
   {
     "modello": "AUDI A5 Avant e-hybrid 270 kW quattro S tronic S Line Edition",
@@ -3700,7 +3485,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-e-hybrid-270-kw-quattro-s-tronic-s-line-edition-4664596/",
-    "data_aggiornamento": "2026-10-31T06:47:22.194691+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:55.955196+00:00"
   },
   {
     "modello": "AUDI A5 Avant e-hybrid 270 kW quattro S tronic S Line Edition",
@@ -3765,7 +3550,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-e-hybrid-270-kw-quattro-s-tronic-s-line-edition-4665299/",
-    "data_aggiornamento": "2026-10-31T06:47:23.921914+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:57.657428+00:00"
   },
   {
     "modello": "AUDI A5 Avant TDI 150 kW quattro S tronic mHEV+ S Line edition",
@@ -3834,7 +3619,7 @@
     ],
     "numero_accessori": 53,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-tdi-150-kw-quattro-s-tronic-mhev-s-line-edition-4784867/",
-    "data_aggiornamento": "2026-10-31T06:47:25.646428+00:00"
+    "data_aggiornamento": "2026-11-01T06:52:59.460302+00:00"
   },
   {
     "modello": "AUDI A5 Avant TDI 150 kW S tronic mHEV+ S Line edition",
@@ -3899,7 +3684,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-tdi-150-kw-s-tronic-mhev-s-line-edition-4682964/",
-    "data_aggiornamento": "2026-10-31T06:47:27.386518+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:01.194965+00:00"
   },
   {
     "modello": "AUDI A5 Avant TDI 150 kW S tronic mHEV+ S Line edition",
@@ -3964,7 +3749,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5-avant/a5-avant-tdi-150-kw-s-tronic-mhev-s-line-edition-4711424/",
-    "data_aggiornamento": "2026-10-31T06:47:29.119504+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:02.903883+00:00"
   },
   {
     "modello": "AUDI A5 e-hybrid 220 kW quattro S tronic S Line Edition",
@@ -4043,7 +3828,7 @@
     ],
     "numero_accessori": 63,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5/a5-e-hybrid-220-kw-quattro-s-tronic-s-line-edition-4665298/",
-    "data_aggiornamento": "2026-10-31T06:47:30.885920+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:04.614972+00:00"
   },
   {
     "modello": "AUDI A5 TDI 150 kW quattro S tronic mHEV+ S Line edition",
@@ -4113,7 +3898,7 @@
     ],
     "numero_accessori": 54,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5/a5-tdi-150-kw-quattro-s-tronic-mhev-s-line-edition-4686921/",
-    "data_aggiornamento": "2026-10-31T06:47:32.612203+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:06.309962+00:00"
   },
   {
     "modello": "AUDI A5 TDI 150 kW quattro S tronic mHEV+ S Line edition",
@@ -4183,7 +3968,7 @@
     ],
     "numero_accessori": 54,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5/a5-tdi-150-kw-quattro-s-tronic-mhev-s-line-edition-4692281/",
-    "data_aggiornamento": "2026-10-31T06:47:34.335218+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:08.042088+00:00"
   },
   {
     "modello": "AUDI A5 TFSI 110 kW S tronic Business",
@@ -4233,7 +4018,7 @@
     ],
     "numero_accessori": 34,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a5/a5-tfsi-110-kw-s-tronic-business-4694090/",
-    "data_aggiornamento": "2026-10-31T06:47:36.073296+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:09.746546+00:00"
   },
   {
     "modello": "AUDI A6 allroad TDI 220 kW S tronic quattro Business Advanced",
@@ -4294,7 +4079,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-allroad/a6-allroad-tdi-220-kw-s-tronic-quattro-business-advanced-4787667/",
-    "data_aggiornamento": "2026-10-31T06:47:37.796537+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:11.480693+00:00"
   },
   {
     "modello": "AUDI A6 allroad TDI 220 kW S tronic quattro S Line",
@@ -4374,7 +4159,7 @@
     ],
     "numero_accessori": 64,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-allroad/a6-allroad-tdi-220-kw-s-tronic-quattro-s-line-4780806/",
-    "data_aggiornamento": "2026-10-31T06:47:39.525340+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:13.191938+00:00"
   },
   {
     "modello": "AUDI A6 allroad TDI 220 kW S tronic quattro S Line",
@@ -4454,7 +4239,7 @@
     ],
     "numero_accessori": 64,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-allroad/a6-allroad-tdi-220-kw-s-tronic-quattro-s-line-4780807/",
-    "data_aggiornamento": "2026-10-31T06:47:41.264749+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:15.071514+00:00"
   },
   {
     "modello": "AUDI A6 e-tron Avant performance S line",
@@ -4545,7 +4330,7 @@
     ],
     "numero_accessori": 75,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-avant-e-tron/a6-e-tron-avant-performance-s-line-4759619/",
-    "data_aggiornamento": "2026-10-31T06:47:43.037843+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:16.784163+00:00"
   },
   {
     "modello": "AUDI A6 e-tron Avant quattro S line",
@@ -4636,7 +4421,7 @@
     ],
     "numero_accessori": 75,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-avant-e-tron/a6-e-tron-avant-quattro-s-line-4733892/",
-    "data_aggiornamento": "2026-10-31T06:47:44.801927+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:18.487719+00:00"
   },
   {
     "modello": "AUDI A6 Avant e-hybrid 220 kW S tronic quattro S line edition",
@@ -4722,7 +4507,7 @@
     ],
     "numero_accessori": 70,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-avant/a6-avant-e-hybrid-220-kw-s-tronic-quattro-s-line-edition-4769908/",
-    "data_aggiornamento": "2026-10-31T06:47:46.527623+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:20.193415+00:00"
   },
   {
     "modello": "AUDI A6 Avant e-hybrid 270 kW S tronic quattro S line edition",
@@ -4810,7 +4595,7 @@
     ],
     "numero_accessori": 72,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-avant/a6-avant-e-hybrid-270-kw-s-tronic-quattro-s-line-edition-4780808/",
-    "data_aggiornamento": "2026-10-31T06:47:48.258224+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:21.923893+00:00"
   },
   {
     "modello": "AUDI A6 Avant TDI 150 kW S tronic S line edition",
@@ -4876,7 +4661,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-avant/a6-avant-tdi-150-kw-s-tronic-s-line-edition-4508167/",
-    "data_aggiornamento": "2026-10-31T06:47:49.982270+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:23.647714+00:00"
   },
   {
     "modello": "AUDI A6 Avant TDI 220 kW S tronic quattro S Line Edition",
@@ -4950,7 +4735,7 @@
     ],
     "numero_accessori": 58,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-avant/a6-avant-tdi-220-kw-s-tronic-quattro-s-line-edition-4698416/",
-    "data_aggiornamento": "2026-10-31T06:47:51.715715+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:25.362381+00:00"
   },
   {
     "modello": "AUDI A6 Avant TDI quattro 150 kW S tronic S line edition",
@@ -5019,7 +4804,7 @@
     ],
     "numero_accessori": 53,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-avant/a6-avant-tdi-quattro-150-kw-s-tronic-s-line-edition-4521291/",
-    "data_aggiornamento": "2026-10-31T06:47:53.439615+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:27.083966+00:00"
   },
   {
     "modello": "AUDI A6 Avant TFSI quattro 270 kW S tronic S line edition",
@@ -5089,7 +4874,7 @@
     ],
     "numero_accessori": 54,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6-avant/a6-avant-tfsi-quattro-270-kw-s-tronic-s-line-edition-4504105/",
-    "data_aggiornamento": "2026-10-31T06:47:55.182031+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:28.784052+00:00"
   },
   {
     "modello": "AUDI A6 TDI 150 kW S tronic Business Advanced",
@@ -5148,7 +4933,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6/a6-tdi-150-kw-s-tronic-business-advanced-4597963/",
-    "data_aggiornamento": "2026-10-31T06:47:56.925011+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:30.489324+00:00"
   },
   {
     "modello": "AUDI A6 TDI quattro 150 kW S tronic S line edition",
@@ -5216,7 +5001,7 @@
     ],
     "numero_accessori": 52,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6/a6-tdi-quattro-150-kw-s-tronic-s-line-edition-4592760/",
-    "data_aggiornamento": "2026-10-31T06:47:58.650425+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:32.196194+00:00"
   },
   {
     "modello": "AUDI A6 TDI quattro 150 kW S tronic S line edition",
@@ -5285,7 +5070,7 @@
     ],
     "numero_accessori": 53,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6/a6-tdi-quattro-150-kw-s-tronic-s-line-edition-4597220/",
-    "data_aggiornamento": "2026-10-31T06:48:00.416525+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:33.956552+00:00"
   },
   {
     "modello": "AUDI A6 TFSI 270 kW S tronic quattro S line edition",
@@ -5358,7 +5143,7 @@
     ],
     "numero_accessori": 57,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a6/a6-tfsi-270-kw-s-tronic-quattro-s-line-edition-4707856/",
-    "data_aggiornamento": "2026-10-31T06:48:02.141207+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:35.666784+00:00"
   },
   {
     "modello": "AUDI A8 60 TFSI e 3.0 quattro tiptronic",
@@ -5424,7 +5209,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/a8/a8-60-tfsi-e-30-quattro-tiptronic-4566786/",
-    "data_aggiornamento": "2026-10-31T06:48:03.879671+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:37.387949+00:00"
   },
   {
     "modello": "AUDI Q2 35 TFSI Identity Black",
@@ -5490,7 +5275,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q2/q2-35-tfsi-identity-black-4812628/",
-    "data_aggiornamento": "2026-10-31T06:48:05.606733+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:39.099293+00:00"
   },
   {
     "modello": "AUDI Q2 35 TFSI S line Edition",
@@ -5556,7 +5341,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q2/q2-35-tfsi-s-line-edition-4617752/",
-    "data_aggiornamento": "2026-10-31T06:48:07.354632+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:40.799521+00:00"
   },
   {
     "modello": "AUDI Q2 35 TFSI S line Edition",
@@ -5620,7 +5405,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q2/q2-35-tfsi-s-line-edition-4647685/",
-    "data_aggiornamento": "2026-10-31T06:48:09.082973+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:42.525845+00:00"
   },
   {
     "modello": "AUDI Q2 35 TFSI S tronic Identity Black",
@@ -5689,7 +5474,7 @@
     ],
     "numero_accessori": 53,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q2/q2-35-tfsi-s-tronic-identity-black-4658698/",
-    "data_aggiornamento": "2026-10-31T06:48:10.811253+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:44.236619+00:00"
   },
   {
     "modello": "AUDI Q2 35 TFSI S tronic Identity Black",
@@ -5757,7 +5542,7 @@
     ],
     "numero_accessori": 52,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q2/q2-35-tfsi-s-tronic-identity-black-4658699/",
-    "data_aggiornamento": "2026-10-31T06:48:12.536553+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:45.945166+00:00"
   },
   {
     "modello": "AUDI Q2 35 TFSI S tronic Identity Black",
@@ -5826,7 +5611,7 @@
     ],
     "numero_accessori": 53,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q2/q2-35-tfsi-s-tronic-identity-black-4771288/",
-    "data_aggiornamento": "2026-10-31T06:48:14.280843+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:47.650615+00:00"
   },
   {
     "modello": "AUDI Q2 35 TFSI S tronic Identity Black",
@@ -5893,7 +5678,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q2/q2-35-tfsi-s-tronic-identity-black-4796185/",
-    "data_aggiornamento": "2026-10-31T06:48:16.018035+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:49.407055+00:00"
   },
   {
     "modello": "AUDI Q2 35 TFSI S tronic Identity Black",
@@ -5959,7 +5744,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q2/q2-35-tfsi-s-tronic-identity-black-4810172/",
-    "data_aggiornamento": "2026-10-31T06:48:17.755145+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:51.114256+00:00"
   },
   {
     "modello": "AUDI Q2 35 TFSI S tronic Identity Black",
@@ -6028,7 +5813,7 @@
     ],
     "numero_accessori": 53,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q2/q2-35-tfsi-s-tronic-identity-black-4818728/",
-    "data_aggiornamento": "2026-10-31T06:48:19.487573+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:52.831528+00:00"
   },
   {
     "modello": "AUDI Q3 SPB e-hybrid 200 kW S tronic S line",
@@ -6092,7 +5877,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-e-hybrid-200-kw-s-tronic-s-line-4809985/",
-    "data_aggiornamento": "2026-10-31T06:48:21.223694+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:54.589197+00:00"
   },
   {
     "modello": "AUDI Q3 SPB e-hybrid 200 kW S tronic S line",
@@ -6156,7 +5941,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-e-hybrid-200-kw-s-tronic-s-line-4810966/",
-    "data_aggiornamento": "2026-10-31T06:48:22.959206+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:56.310220+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TDI 110 kW S tronic S Line edition",
@@ -6214,7 +5999,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tdi-110-kw-s-tronic-s-line-edition-4741776/",
-    "data_aggiornamento": "2026-10-31T06:48:24.696192+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:58.023076+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TDI 110 kW S tronic S Line edition",
@@ -6270,7 +6055,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tdi-110-kw-s-tronic-s-line-edition-4747849/",
-    "data_aggiornamento": "2026-10-31T06:48:26.426957+00:00"
+    "data_aggiornamento": "2026-11-01T06:53:59.730326+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TFSI 110 kW mHEV S tronic Business Advanced",
@@ -6328,7 +6113,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tfsi-110-kw-mhev-s-tronic-business-advanced-4679619/",
-    "data_aggiornamento": "2026-10-31T06:48:28.196893+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:01.445379+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TFSI 110 kW mHEV S tronic Business Advanced",
@@ -6385,7 +6170,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tfsi-110-kw-mhev-s-tronic-business-advanced-4684236/",
-    "data_aggiornamento": "2026-10-31T06:48:29.933095+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:03.173733+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TFSI 110 kW mHEV S tronic Business Advanced",
@@ -6444,7 +6229,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tfsi-110-kw-mhev-s-tronic-business-advanced-4695082/",
-    "data_aggiornamento": "2026-10-31T06:48:31.675140+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:04.882074+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TFSI 110 kW mHEV S tronic Business Advanced",
@@ -6503,7 +6288,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tfsi-110-kw-mhev-s-tronic-business-advanced-4695083/",
-    "data_aggiornamento": "2026-10-31T06:48:33.998171+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:06.595406+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TFSI 110 kW mHEV S tronic Business Advanced",
@@ -6562,7 +6347,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tfsi-110-kw-mhev-s-tronic-business-advanced-4701411/",
-    "data_aggiornamento": "2026-10-31T06:48:35.728319+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:08.314717+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TFSI 110 kW mHEV S tronic S Line edition",
@@ -6619,7 +6404,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tfsi-110-kw-mhev-s-tronic-s-line-edition-4705843/",
-    "data_aggiornamento": "2026-10-31T06:48:37.460225+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:10.030637+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TFSI 110 kW mHEV S tronic S Line edition",
@@ -6681,7 +6466,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tfsi-110-kw-mhev-s-tronic-s-line-edition-4705846/",
-    "data_aggiornamento": "2026-10-31T06:48:39.196851+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:11.738774+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TFSI 110 kW mHEV S tronic S Line edition",
@@ -6734,7 +6519,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tfsi-110-kw-mhev-s-tronic-s-line-edition-4734957/",
-    "data_aggiornamento": "2026-10-31T06:48:40.928619+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:13.448079+00:00"
   },
   {
     "modello": "AUDI Q3 SPB TFSI 110 kW mHEV S tronic S Line edition",
@@ -6792,7 +6577,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3-sportback/q3-spb-tfsi-110-kw-mhev-s-tronic-s-line-edition-4751634/",
-    "data_aggiornamento": "2026-10-31T06:48:42.699272+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:15.146693+00:00"
   },
   {
     "modello": "AUDI Q3 TDI 142 kW S tronic quattro S Line",
@@ -6867,7 +6652,7 @@
     ],
     "numero_accessori": 59,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3/q3-tdi-142-kw-s-tronic-quattro-s-line-4801972/",
-    "data_aggiornamento": "2026-10-31T06:48:44.437319+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:16.883159+00:00"
   },
   {
     "modello": "AUDI Q3 TDI 142 kW S tronic quattro S Line",
@@ -6942,7 +6727,7 @@
     ],
     "numero_accessori": 59,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q3/q3-tdi-142-kw-s-tronic-quattro-s-line-4804659/",
-    "data_aggiornamento": "2026-10-31T06:48:46.173395+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:18.580701+00:00"
   },
   {
     "modello": "AUDI Q4 45 e-tron S Line edition",
@@ -7020,7 +6805,7 @@
     ],
     "numero_accessori": 62,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-e-tron/q4-45-e-tron-s-line-edition-4657752/",
-    "data_aggiornamento": "2026-10-31T06:48:47.920493+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:20.289303+00:00"
   },
   {
     "modello": "AUDI Q4 45 e-tron S Line edition",
@@ -7098,7 +6883,7 @@
     ],
     "numero_accessori": 62,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-e-tron/q4-45-e-tron-s-line-edition-4661496/",
-    "data_aggiornamento": "2026-10-31T06:48:49.664959+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:21.998431+00:00"
   },
   {
     "modello": "AUDI Q4 e-tron Custom Edition",
@@ -7173,7 +6958,7 @@
     ],
     "numero_accessori": 59,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-e-tron/q4-e-tron-custom-edition-4736905/",
-    "data_aggiornamento": "2026-10-31T06:48:51.411567+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:23.721176+00:00"
   },
   {
     "modello": "AUDI Q4 e-tron Custom Edition",
@@ -7231,7 +7016,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-e-tron/q4-e-tron-custom-edition-4779950/",
-    "data_aggiornamento": "2026-10-31T06:48:53.163000+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:25.441577+00:00"
   },
   {
     "modello": "AUDI Q4 e-tron performance S Line",
@@ -7296,7 +7081,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-e-tron/q4-e-tron-performance-s-line-4807152/",
-    "data_aggiornamento": "2026-10-31T06:48:54.895209+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:27.152267+00:00"
   },
   {
     "modello": "AUDI Q4 e-tron quattro performance S Line",
@@ -7360,7 +7145,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-e-tron/q4-e-tron-quattro-performance-s-line-4754529/",
-    "data_aggiornamento": "2026-10-31T06:48:56.662160+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:28.874402+00:00"
   },
   {
     "modello": "AUDI Q4 e-tron quattro performance S Line",
@@ -7426,7 +7211,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-e-tron/q4-e-tron-quattro-performance-s-line-4775245/",
-    "data_aggiornamento": "2026-10-31T06:48:58.403618+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:30.592697+00:00"
   },
   {
     "modello": "AUDI Q4 SBP e-tron performance S Line",
@@ -7490,7 +7275,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-sportback-e-tron/q4-sbp-e-tron-performance-s-line-4772701/",
-    "data_aggiornamento": "2026-10-31T06:49:00.139181+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:32.305327+00:00"
   },
   {
     "modello": "AUDI Q4 SBP e-tron performance S Line",
@@ -7554,7 +7339,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-sportback-e-tron/q4-sbp-e-tron-performance-s-line-4772702/",
-    "data_aggiornamento": "2026-10-31T06:49:01.882446+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:34.014205+00:00"
   },
   {
     "modello": "AUDI Q4 SBP e-tron quattro performance S Line",
@@ -7621,7 +7406,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-sportback-e-tron/q4-sbp-e-tron-quattro-performance-s-line-4754530/",
-    "data_aggiornamento": "2026-10-31T06:49:03.627932+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:35.721137+00:00"
   },
   {
     "modello": "AUDI Q4 SBP e-tron S Line",
@@ -7684,79 +7469,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q4-sportback-e-tron/q4-sbp-e-tron-s-line-4754528/",
-    "data_aggiornamento": "2026-10-31T06:49:05.378711+00:00"
-  },
-  {
-    "modello": "AUDI Q5 SPB e-hybrid 220 kW S tronic quattro S Line Edition",
-    "numero_pratica": "82367",
-    "alimentazione": "Plug-In Hybrid",
-    "potenza": "299 CV(220 kW)",
-    "colore_esterno": "Grigio Daytona Perlato",
-    "chilometraggio": null,
-    "chilometraggio_km": null,
-    "immatricolazione": null,
-    "prezzo_euro": 89880,
-    "accessori": [
-      "Assistente al parcheggio pro con funzione remota",
-      "Assistente alla guida adattivo plus",
-      "Audi drive select assistant",
-      "Cerchi Audi Sport, design a 5 razze doppie a Y, Grigio Satinato, torniti",
-      "Certificato di idoneitU tecnica alla circolazione, supplemento",
-      "Climatizzazione autonoma comfort",
-      "Dashcam",
-      "Esterni S line",
-      "Gusci specchietti retrovisivi esterni Black",
-      "Interni con sedili normali nella combinazione pelle/similpelle in Nero",
-      "MMI experience plus con Audi sound system",
-      "Pacchetto equipaggiamenti Italia",
-      "Pacchetto Esterni Nero",
-      "Pacchetto Luci Ambiente plus",
-      "Segnale di avvertimento all'uscita dalla corsia con controllo parziale del",
-      "Sistema di ricarica e-tron compatto",
-      "Sistema di riconoscimento dei passeggeri nella parte posteriore",
-      "Spina domestica tipo E/F per il sistema di ricarica e-tron",
-      "Spina industriale CEE 32 A, 230 V, lunga e diritta, per il sistema di",
-      "Tech pro",
-      "Verniciatura integrale",
-      "Vetro isolante acusticamente finestrini anteriori",
-      "Vetro parasole oscurato",
-      "Volante sportivo multifunzionale in pelle a razze doppie, appiattito nella",
-      "Airbag guida",
-      "Airbag laterali",
-      "Airbag passeggero",
-      "Airbag per la testa",
-      "Assistente attivo mantenimento traiettoria",
-      "Autoradio",
-      "Avviso del cambio di corsia",
-      "Bracciolo sedili anteriori",
-      "Cerchi in lega",
-      "Climatizzatore",
-      "Connessione dati",
-      "Controllo automatico adattivo della velocità",
-      "Fari adattativi",
-      "Fari anteriori a LED",
-      "Frenata automatica di emergenza",
-      "Immobilizzatore",
-      "Interni in materiale pregiato",
-      "Keyless entry",
-      "Lavatergifari",
-      "Monitoraggio angolo cieco",
-      "Monitoraggio traffico trasversale posteriore",
-      "Navigatore satellitare",
-      "Parcheggio automatico",
-      "Radio DAB",
-      "Retrovisori elettrici",
-      "Retrovisori ripiegabili elettricamente",
-      "Riconoscimento pedone",
-      "Riconoscimento segnali stradali",
-      "Sedile guida regolabile in altezza",
-      "Sedile posteriore sdoppiato",
-      "Sistema di detezione distrazione del guidatore",
-      "Telecamera 360°"
-    ],
-    "numero_accessori": 56,
-    "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q5-sportback/q5-spb-e-hybrid-220-kw-s-tronic-quattro-s-line-edition-4758961/",
-    "data_aggiornamento": "2026-10-31T06:49:07.121573+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:37.461983+00:00"
   },
   {
     "modello": "AUDI Q5 SPB TDI 150 kW mHEV+ S tronic quattro S line edition",
@@ -7823,7 +7536,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q5-sportback/q5-spb-tdi-150-kw-mhev-s-tronic-quattro-s-line-edition-4685997/",
-    "data_aggiornamento": "2026-10-31T06:49:08.850180+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:39.179115+00:00"
   },
   {
     "modello": "AUDI Q5 SPB TDI 150 kW mHEV+ S tronic quattro S line edition",
@@ -7888,7 +7601,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q5-sportback/q5-spb-tdi-150-kw-mhev-s-tronic-quattro-s-line-edition-4690790/",
-    "data_aggiornamento": "2026-10-31T06:49:10.669897+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:40.892756+00:00"
   },
   {
     "modello": "AUDI Q5 SPB TDI 150 kW mHEV+ S tronic quattro S line edition",
@@ -7955,7 +7668,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q5-sportback/q5-spb-tdi-150-kw-mhev-s-tronic-quattro-s-line-edition-4694088/",
-    "data_aggiornamento": "2026-10-31T06:49:12.405966+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:42.602171+00:00"
   },
   {
     "modello": "AUDI Q5 SPB TDI 150 kW mHEV+ S tronic quattro S line edition",
@@ -8020,7 +7733,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q5-sportback/q5-spb-tdi-150-kw-mhev-s-tronic-quattro-s-line-edition-4698414/",
-    "data_aggiornamento": "2026-10-31T06:49:14.151317+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:44.354656+00:00"
   },
   {
     "modello": "AUDI Q5 SPB TDI 150 kW mHEV+ S tronic quattro S line edition",
@@ -8087,7 +7800,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q5-sportback/q5-spb-tdi-150-kw-mhev-s-tronic-quattro-s-line-edition-4771285/",
-    "data_aggiornamento": "2026-10-31T06:49:15.880811+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:46.055127+00:00"
   },
   {
     "modello": "AUDI Q5 TDi 150 kW mHEV+ S tronic quattro S line edition",
@@ -8157,7 +7870,7 @@
     ],
     "numero_accessori": 54,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q5/q5-tdi-150-kw-mhev-s-tronic-quattro-s-line-edition-4768311/",
-    "data_aggiornamento": "2026-10-31T06:49:17.618135+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:47.777568+00:00"
   },
   {
     "modello": "AUDI Q5 TDi 150 kW mHEV+ S tronic quattro S line edition",
@@ -8227,7 +7940,7 @@
     ],
     "numero_accessori": 54,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q5/q5-tdi-150-kw-mhev-s-tronic-quattro-s-line-edition-4785406/",
-    "data_aggiornamento": "2026-10-31T06:49:19.352272+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:49.484875+00:00"
   },
   {
     "modello": "AUDI Q6 e-tron performance S line",
@@ -8305,7 +8018,7 @@
     ],
     "numero_accessori": 62,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-e-tron/q6-e-tron-performance-s-line-4733890/",
-    "data_aggiornamento": "2026-10-31T06:49:21.406688+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:51.198254+00:00"
   },
   {
     "modello": "AUDI Q6 e-tron performance S line",
@@ -8383,7 +8096,7 @@
     ],
     "numero_accessori": 62,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-e-tron/q6-e-tron-performance-s-line-4733891/",
-    "data_aggiornamento": "2026-10-31T06:49:23.147406+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:52.921402+00:00"
   },
   {
     "modello": "AUDI Q6 e-tron performance S line",
@@ -8461,7 +8174,7 @@
     ],
     "numero_accessori": 62,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-e-tron/q6-e-tron-performance-s-line-4735848/",
-    "data_aggiornamento": "2026-10-31T06:49:24.924714+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:54.648426+00:00"
   },
   {
     "modello": "AUDI Q6 e-tron performance S line",
@@ -8540,7 +8253,7 @@
     ],
     "numero_accessori": 63,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-e-tron/q6-e-tron-performance-s-line-4735849/",
-    "data_aggiornamento": "2026-10-31T06:49:26.662615+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:56.376919+00:00"
   },
   {
     "modello": "AUDI Q6 e-tron performance S line",
@@ -8621,89 +8334,7 @@
     ],
     "numero_accessori": 65,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-e-tron/q6-e-tron-performance-s-line-4735852/",
-    "data_aggiornamento": "2026-10-31T06:49:28.393164+00:00"
-  },
-  {
-    "modello": "AUDI Q6 e-tron performance S line edition",
-    "numero_pratica": "82481",
-    "alimentazione": "Elettrica",
-    "potenza": "306 CV(225 kW)",
-    "colore_esterno": "Blu Plasma Metallizzato",
-    "chilometraggio": null,
-    "chilometraggio_km": null,
-    "immatricolazione": null,
-    "prezzo_euro": 85130,
-    "accessori": [
-      "Assistente al parcheggio pro con funzione remota",
-      "Assistente alla guida adattivo plus",
-      "Audi drive select assistant",
-      "Cerchi, design strutturale a 5 razze a V, Grigio Grafite, torniti lucidi,",
-      "Certificato di idoneitU tecnica alla circolazione, supplemento",
-      "Dashcam",
-      "Eliminazione identificativo modello su parte posteriore",
-      "esposizione",
-      "Esterni S line",
-      "Inserto decorativo in legno di betulla lineare Grigio Pietra Naturale",
-      "Interni con sedili normali, combinazione pelle/similpelle in Marrone",
-      "Pacchetto Climatizzazione per inverno",
-      "Pacchetto equipaggiamenti Italia",
-      "Pacchetto Esterni Nero",
-      "Pacchetto Vano portaoggetti e vano bagagli",
-      "Sedili anteriori regolabili elettricamente con funzione Memory per",
-      "Segnale di avvertimento all'uscita dalla corsia con controllo parziale del",
-      "Sistema di riconoscimento dei passeggeri nella parte posteriore",
-      "Tech pro",
-      "Verniciatura integrale",
-      "Vetro isolante acusticamente finestrini anteriori",
-      "Vetro parasole oscurato",
-      "Volante sportivo multifunzionale in pelle a doppie razze, appiattito nella",
-      "ABS",
-      "Airbag guida",
-      "Airbag laterali",
-      "Airbag passeggero",
-      "Airbag per la testa",
-      "Appoggiatesta posteriori",
-      "Assistente attivo mantenimento traiettoria",
-      "Autoradio",
-      "Avviso del cambio di corsia",
-      "Bracciolo sedili anteriori",
-      "Cerchi in lega",
-      "Chiusura centralizzata",
-      "Climatizzatore",
-      "Connessione dati",
-      "Controllo automatico adattivo della velocità",
-      "Controllo automatico velocità",
-      "Controllo elettronico della stabilità",
-      "Controllo elettronico della trazione",
-      "Fari anteriori a LED",
-      "Frenata automatica di emergenza",
-      "Frenata automatica di emergenza posteriore",
-      "Immobilizzatore",
-      "Keyless entry",
-      "Lavatergifari",
-      "Monitoraggio angolo cieco",
-      "Monitoraggio traffico trasversale posteriore",
-      "Navigatore satellitare",
-      "Parcheggio automatico",
-      "Radio DAB",
-      "Retrovisori elettrici",
-      "Retrovisori ripiegabili elettricamente",
-      "Riconoscimento pedone",
-      "Riconoscimento segnali stradali",
-      "Sedile guida regolabile in altezza",
-      "Sedile posteriore sdoppiato",
-      "Sedili con funzione memoria",
-      "Sedili regolabili elettricamente",
-      "Servosterzo",
-      "Sistema di detezione distrazione del guidatore",
-      "Telecamera 360°",
-      "Vetri elettrici anteriori",
-      "Vetri elettrici posteriori",
-      "Volante regolabile"
-    ],
-    "numero_accessori": 66,
-    "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-e-tron/q6-e-tron-performance-s-line-edition-4718179/",
-    "data_aggiornamento": "2026-10-31T06:49:30.130515+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:58.090823+00:00"
   },
   {
     "modello": "AUDI Q6 e-tron performance S line edition",
@@ -8783,7 +8414,7 @@
     ],
     "numero_accessori": 64,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-e-tron/q6-e-tron-performance-s-line-edition-4729480/",
-    "data_aggiornamento": "2026-10-31T06:49:31.863770+00:00"
+    "data_aggiornamento": "2026-11-01T06:54:59.804287+00:00"
   },
   {
     "modello": "AUDI Q6 e-tron quattro S line",
@@ -8862,7 +8493,7 @@
     ],
     "numero_accessori": 63,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-e-tron/q6-e-tron-quattro-s-line-4735850/",
-    "data_aggiornamento": "2026-10-31T06:49:33.597253+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:01.518427+00:00"
   },
   {
     "modello": "AUDI Q6 e-tron quattro S line",
@@ -8941,7 +8572,7 @@
     ],
     "numero_accessori": 63,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-e-tron/q6-e-tron-quattro-s-line-4735851/",
-    "data_aggiornamento": "2026-10-31T06:49:35.354954+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:03.222085+00:00"
   },
   {
     "modello": "AUDI Q6 e-tron quattro S line",
@@ -9020,7 +8651,7 @@
     ],
     "numero_accessori": 63,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-e-tron/q6-e-tron-quattro-s-line-4771291/",
-    "data_aggiornamento": "2026-10-31T06:49:37.092389+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:04.919267+00:00"
   },
   {
     "modello": "AUDI Q6 SPB e-tron performance Business Advanced",
@@ -9082,7 +8713,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-sportback-e-tron/q6-spb-e-tron-performance-business-advanced-4759618/",
-    "data_aggiornamento": "2026-10-31T06:49:38.844994+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:06.634315+00:00"
   },
   {
     "modello": "AUDI Q6 SPB e-tron quattro S line edition",
@@ -9156,7 +8787,7 @@
     ],
     "numero_accessori": 58,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q6-sportback-e-tron/q6-spb-e-tron-quattro-s-line-edition-4707866/",
-    "data_aggiornamento": "2026-10-31T06:49:40.583579+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:08.338790+00:00"
   },
   {
     "modello": "AUDI Q7 SUV TDI 210 kW quattro tiptronic S line Edition",
@@ -9243,7 +8874,7 @@
     ],
     "numero_accessori": 71,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q7/q7-suv-tdi-210-kw-quattro-tiptronic-s-line-edition-4637011/",
-    "data_aggiornamento": "2026-10-31T06:49:42.320904+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:10.055307+00:00"
   },
   {
     "modello": "AUDI Q7 TDI quattro 180 kW tiptronic S line",
@@ -9328,7 +8959,7 @@
     ],
     "numero_accessori": 69,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q7/q7-tdi-quattro-180-kw-tiptronic-s-line-4816855/",
-    "data_aggiornamento": "2026-10-31T06:49:44.050158+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:11.811526+00:00"
   },
   {
     "modello": "AUDI Q7 TDI quattro 220 kW S tiptronic Identity",
@@ -9427,7 +9058,7 @@
     ],
     "numero_accessori": 83,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q7/q7-tdi-quattro-220-kw-s-tiptronic-identity-4776299/",
-    "data_aggiornamento": "2026-10-31T06:49:45.792162+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:13.515747+00:00"
   },
   {
     "modello": "AUDI Q8 SUV e-hybrid quattro 290 kW tiptronic S line",
@@ -9501,7 +9132,7 @@
     ],
     "numero_accessori": 58,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q8/q8-suv-e-hybrid-quattro-290-kw-tiptronic-s-line-4736904/",
-    "data_aggiornamento": "2026-10-31T06:49:47.529718+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:15.213854+00:00"
   },
   {
     "modello": "AUDI Q8 SUV TDI quattro 210 kW tiptronic S line edition",
@@ -9579,7 +9210,7 @@
     ],
     "numero_accessori": 62,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q8/q8-suv-tdi-quattro-210-kw-tiptronic-s-line-edition-4784866/",
-    "data_aggiornamento": "2026-10-31T06:49:49.262495+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:16.924012+00:00"
   },
   {
     "modello": "AUDI Q8 SUV TDI quattro 210 kW tiptronic S line edition",
@@ -9666,7 +9297,7 @@
     ],
     "numero_accessori": 71,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q8/q8-suv-tdi-quattro-210-kw-tiptronic-s-line-edition-4790355/",
-    "data_aggiornamento": "2026-10-31T06:49:50.991374+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:18.640892+00:00"
   },
   {
     "modello": "AUDI Q8 SUV TDI quattro 210 kW tiptronic S line edition",
@@ -9753,7 +9384,7 @@
     ],
     "numero_accessori": 71,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/q8/q8-suv-tdi-quattro-210-kw-tiptronic-s-line-edition-4793988/",
-    "data_aggiornamento": "2026-10-31T06:49:52.761940+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:20.363738+00:00"
   },
   {
     "modello": "AUDI RS e-tron GT quattro performance",
@@ -9820,7 +9451,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/rs-e-tron-gt/rs-e-tron-gt-quattro-performance-4734956/",
-    "data_aggiornamento": "2026-10-31T06:49:54.501378+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:22.076000+00:00"
   },
   {
     "modello": "AUDI RS 3 SPB TFSI quattro S tronic",
@@ -9901,7 +9532,7 @@
     ],
     "numero_accessori": 65,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/rs3-sportback/rs-3-spb-tfsi-quattro-s-tronic-4711425/",
-    "data_aggiornamento": "2026-10-31T06:49:56.254836+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:23.799774+00:00"
   },
   {
     "modello": "AUDI RS 3 SPB TFSI quattro S tronic",
@@ -9992,7 +9623,7 @@
     ],
     "numero_accessori": 75,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/rs3-sportback/rs-3-spb-tfsi-quattro-s-tronic-4762194/",
-    "data_aggiornamento": "2026-10-31T06:49:57.986097+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:25.500374+00:00"
   },
   {
     "modello": "AUDI RS 3 SPB TFSI quattro S tronic competition limited",
@@ -10059,7 +9690,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/rs3-sportback/rs-3-spb-tfsi-quattro-s-tronic-competition-limited-4798097/",
-    "data_aggiornamento": "2026-10-31T06:49:59.718624+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:27.221430+00:00"
   },
   {
     "modello": "AUDI RS 3 SPB TFSI quattro S tronic competition limited",
@@ -10126,7 +9757,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/rs3-sportback/rs-3-spb-tfsi-quattro-s-tronic-competition-limited-4818729/",
-    "data_aggiornamento": "2026-10-31T06:50:01.454851+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:28.932745+00:00"
   },
   {
     "modello": "AUDI RS Q8 TFSI V8 quattro tiptronic Performance",
@@ -10200,7 +9831,7 @@
     ],
     "numero_accessori": 58,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/rsq8/rs-q8-tfsi-v8-quattro-tiptronic-performance-4756001/",
-    "data_aggiornamento": "2026-10-31T06:50:03.183950+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:30.639595+00:00"
   },
   {
     "modello": "AUDI RS Q8 TFSI V8 quattro tiptronic Performance",
@@ -10265,7 +9896,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/rsq8/rs-q8-tfsi-v8-quattro-tiptronic-performance-4816856/",
-    "data_aggiornamento": "2026-10-31T06:50:04.917202+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:32.361247+00:00"
   },
   {
     "modello": "AUDI S6 e-tron SPB quattro Sport attitude",
@@ -10343,7 +9974,7 @@
     ],
     "numero_accessori": 62,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/s6-sportback-e-tron/s6-e-tron-spb-quattro-sport-attitude-4476175/",
-    "data_aggiornamento": "2026-10-31T06:50:06.657289+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:34.070145+00:00"
   },
   {
     "modello": "AUDI SQ5 TFSI mHEV+ quattro",
@@ -10401,7 +10032,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/audi/sq5/sq5-tfsi-mhev-quattro-4670812/",
-    "data_aggiornamento": "2026-10-31T06:50:08.392112+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:35.779916+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -10457,7 +10088,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4734954/",
-    "data_aggiornamento": "2026-10-31T06:50:10.132704+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:37.487232+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -10511,7 +10142,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4738896/",
-    "data_aggiornamento": "2026-10-31T06:50:11.871184+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:39.182905+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -10566,62 +10197,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4738897/",
-    "data_aggiornamento": "2026-10-31T06:50:13.607339+00:00"
-  },
-  {
-    "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
-    "numero_pratica": "12219",
-    "alimentazione": "Plug-In Hybrid",
-    "potenza": "204 CV(150 kW)",
-    "colore_esterno": "Manganese Opaco",
-    "chilometraggio": null,
-    "chilometraggio_km": null,
-    "immatricolazione": null,
-    "prezzo_euro": 52120,
-    "accessori": [
-      "Calotta di protezione per trasporto (sistema confezione) con provvedimenti",
-      "Cavo per stazione di ricarica a corrente alternata (16 A)(Mode 3)",
-      "Edizione speciale TRIBE EDITION",
-      "Pacchetto a prezzo scontato",
-      "Pacchetto Edge senza SAFELOCK",
-      "Skyline tettuccio panoramico, elettrico",
-      "ABS",
-      "Appoggiatesta posteriori",
-      "Assistente attivo mantenimento traiettoria",
-      "Autoradio",
-      "Avviso del cambio di corsia",
-      "Bracciolo sedili anteriori",
-      "Cerchi in lega",
-      "Climatizzatore",
-      "Connessione dati",
-      "Controllo automatico adattivo della velocità",
-      "Controllo automatico velocità",
-      "Controllo elettronico della stabilità",
-      "Controllo elettronico della trazione",
-      "Fari adattativi",
-      "Fari anteriori a LED",
-      "Fendinebbia",
-      "Frenata automatica di emergenza",
-      "Immobilizzatore",
-      "Radio DAB",
-      "Retrovisori elettrici",
-      "Retrovisori ripiegabili elettricamente",
-      "Riconoscimento pedone",
-      "Riconoscimento segnali stradali",
-      "Sedile guida regolabile in altezza",
-      "Sedile posteriore sdoppiato",
-      "Sensore luci",
-      "Sensore pioggia",
-      "Sensori di parcheggio posteriori",
-      "Servosterzo",
-      "Sistema di detezione distrazione del guidatore",
-      "Tergilunotto",
-      "Vetri elettrici anteriori",
-      "Vetri elettrici posteriori"
-    ],
-    "numero_accessori": 39,
-    "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4739741/",
-    "data_aggiornamento": "2026-10-31T06:50:15.346371+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:40.879634+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -10675,7 +10251,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4741024/",
-    "data_aggiornamento": "2026-10-31T06:50:17.086361+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:42.617900+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -10729,7 +10305,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4754527/",
-    "data_aggiornamento": "2026-10-31T06:50:18.817627+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:44.328679+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -10784,7 +10360,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4758382/",
-    "data_aggiornamento": "2026-10-31T06:50:20.554569+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:46.055764+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -10840,7 +10416,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4761213/",
-    "data_aggiornamento": "2026-10-31T06:50:22.326939+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:47.763541+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -10893,7 +10469,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4768308/",
-    "data_aggiornamento": "2026-10-31T06:50:24.053828+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:49.470573+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -10946,7 +10522,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4782863/",
-    "data_aggiornamento": "2026-10-31T06:50:25.782498+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:51.179522+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -11002,7 +10578,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4785405/",
-    "data_aggiornamento": "2026-10-31T06:50:27.522870+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:52.907288+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -11056,7 +10632,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4792468/",
-    "data_aggiornamento": "2026-10-31T06:50:29.256535+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:54.610626+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -11110,7 +10686,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4792469/",
-    "data_aggiornamento": "2026-10-31T06:50:30.996589+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:56.316972+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG",
@@ -11165,7 +10741,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-4805543/",
-    "data_aggiornamento": "2026-10-31T06:50:32.729918+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:58.013641+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-Hybrid DSG Dark Stone",
@@ -11217,7 +10793,7 @@
     ],
     "numero_accessori": 36,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-e-hybrid-dsg-dark-stone-4686086/",
-    "data_aggiornamento": "2026-10-31T06:50:34.458464+00:00"
+    "data_aggiornamento": "2026-11-01T06:55:59.710184+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 Hybrid DSG",
@@ -11270,7 +10846,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-hybrid-dsg-4819690/",
-    "data_aggiornamento": "2026-10-31T06:50:36.190204+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:01.409882+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 Hybrid DSG Business",
@@ -11328,7 +10904,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-15-hybrid-dsg-business-4819688/",
-    "data_aggiornamento": "2026-10-31T06:50:37.958897+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:03.119246+00:00"
   },
   {
     "modello": "CUPRA Formentor 2.0 TDI DSG Business",
@@ -11383,7 +10959,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-20-tdi-dsg-business-4714758/",
-    "data_aggiornamento": "2026-10-31T06:50:39.705067+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:04.836503+00:00"
   },
   {
     "modello": "CUPRA Formentor 2.0 TDI DSG Business",
@@ -11438,7 +11014,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-20-tdi-dsg-business-4719577/",
-    "data_aggiornamento": "2026-10-31T06:50:41.449221+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:06.553138+00:00"
   },
   {
     "modello": "CUPRA Formentor 2.0 TSI 4Drive DSG Business",
@@ -11493,7 +11069,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-20-tsi-4drive-dsg-business-4755351/",
-    "data_aggiornamento": "2026-10-31T06:50:43.221032+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:08.428887+00:00"
   },
   {
     "modello": "CUPRA Formentor 2.0 TSI 4Drive DSG Business",
@@ -11549,7 +11125,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-20-tsi-4drive-dsg-business-4759615/",
-    "data_aggiornamento": "2026-10-31T06:50:44.957740+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:10.172756+00:00"
   },
   {
     "modello": "CUPRA Formentor 2.0 TSI 4Drive DSG Business",
@@ -11605,7 +11181,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-20-tsi-4drive-dsg-business-4782333/",
-    "data_aggiornamento": "2026-10-31T06:50:46.687191+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:11.886987+00:00"
   },
   {
     "modello": "CUPRA Formentor 2.0 TSI 4Drive DSG Business",
@@ -11663,7 +11239,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-20-tsi-4drive-dsg-business-4790353/",
-    "data_aggiornamento": "2026-10-31T06:50:48.418800+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:13.597175+00:00"
   },
   {
     "modello": "CUPRA Formentor 2.0 TSI 4Drive DSG Tribe Edition",
@@ -11721,7 +11297,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-20-tsi-4drive-dsg-tribe-edition-4744707/",
-    "data_aggiornamento": "2026-10-31T06:50:50.201764+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:15.304558+00:00"
   },
   {
     "modello": "CUPRA Formentor 2.5 TSI DSG 4Drive VZ5",
@@ -11784,7 +11360,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/formentor/formentor-25-tsi-dsg-4drive-vz5-4765868/",
-    "data_aggiornamento": "2026-10-31T06:50:51.933095+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:17.027597+00:00"
   },
   {
     "modello": "CUPRA Leon Sportstourer 1.5 e-Hybrid 204 CV DSG Business",
@@ -11845,7 +11421,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon-sportstourer/leon-sportstourer-15-e-hybrid-204-cv-dsg-business-4729475/",
-    "data_aggiornamento": "2026-10-31T06:50:53.713260+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:18.746474+00:00"
   },
   {
     "modello": "CUPRA Leon Sportstourer 1.5 e-Hybrid 204 CV DSG Business",
@@ -11905,7 +11481,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon-sportstourer/leon-sportstourer-15-e-hybrid-204-cv-dsg-business-4730504/",
-    "data_aggiornamento": "2026-10-31T06:50:55.457884+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:20.460568+00:00"
   },
   {
     "modello": "CUPRA Leon Sportstourer 1.5 e-Hybrid 204 CV DSG Business",
@@ -11966,7 +11542,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon-sportstourer/leon-sportstourer-15-e-hybrid-204-cv-dsg-business-4739745/",
-    "data_aggiornamento": "2026-10-31T06:50:57.186384+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:22.180094+00:00"
   },
   {
     "modello": "CUPRA Leon Sportstourer 1.5 e-Hybrid 204 CV DSG Business",
@@ -12026,7 +11602,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon-sportstourer/leon-sportstourer-15-e-hybrid-204-cv-dsg-business-4768306/",
-    "data_aggiornamento": "2026-10-31T06:50:59.069181+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:23.890146+00:00"
   },
   {
     "modello": "CUPRA Leon Sportstourer 1.5 e-Hybrid 204 CV DSG Business",
@@ -12087,7 +11663,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon-sportstourer/leon-sportstourer-15-e-hybrid-204-cv-dsg-business-4816852/",
-    "data_aggiornamento": "2026-10-31T06:51:00.857093+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:25.597089+00:00"
   },
   {
     "modello": "CUPRA Leon Sportstourer 1.5 e-Hybrid 204 CV DSG Business",
@@ -12148,71 +11724,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon-sportstourer/leon-sportstourer-15-e-hybrid-204-cv-dsg-business-4816854/",
-    "data_aggiornamento": "2026-10-31T06:51:02.590591+00:00"
-  },
-  {
-    "modello": "CUPRA Leon Sportstourer 1.5 e-Hybrid 204 CV DSG Tribe Edition",
-    "numero_pratica": "12178",
-    "alimentazione": "Plug-In Hybrid",
-    "potenza": "204 CV(150 kW)",
-    "colore_esterno": "Nero Midnight",
-    "chilometraggio": null,
-    "chilometraggio_km": null,
-    "immatricolazione": null,
-    "prezzo_euro": 50340,
-    "accessori": [
-      "Cavo per stazione di ricarica a corrente alternata (16 A)(Mode 3)",
-      "Edizione speciale TRIBE EDITION",
-      "Intelligent Drive DQ (cambio automatico)",
-      "Pacchetto a prezzo scontato",
-      "Pacchetto Edge senza SAFELOCK",
-      "Skyline tettuccio panoramico, elettrico",
-      "ABS",
-      "Airbag guida",
-      "Airbag laterali",
-      "Airbag passeggero",
-      "Airbag per la testa",
-      "Antifurto",
-      "Appoggiatesta posteriori",
-      "Assistente attivo mantenimento traiettoria",
-      "Autoradio",
-      "Avviso del cambio di corsia",
-      "Bracciolo sedili anteriori",
-      "Cerchi in lega",
-      "Climatizzatore",
-      "Connessione dati",
-      "Controllo automatico adattivo della velocità",
-      "Controllo automatico velocità",
-      "Controllo elettronico della stabilità",
-      "Controllo elettronico della trazione",
-      "Correttore assetto fari",
-      "Fari adattativi",
-      "Fari anteriori a LED",
-      "Fendinebbia",
-      "Frenata automatica di emergenza",
-      "Keyless entry",
-      "Radio DAB",
-      "Retrovisori elettrici",
-      "Retrovisori ripiegabili elettricamente",
-      "Riconoscimento pedone",
-      "Riconoscimento segnali stradali",
-      "Sedile posteriore sdoppiato",
-      "Sedili con funzione memoria",
-      "Sedili regolabili elettricamente",
-      "Sensore luci",
-      "Sensore pioggia",
-      "Sensori di parcheggio posteriori",
-      "Servosterzo",
-      "Sistema di detezione distrazione del guidatore",
-      "Sospensioni autoregolabili",
-      "Telecamera posteriore",
-      "Tergilunotto",
-      "Vetri elettrici anteriori",
-      "Vetri elettrici posteriori"
-    ],
-    "numero_accessori": 48,
-    "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon-sportstourer/leon-sportstourer-15-e-hybrid-204-cv-dsg-tribe-edition-4762192/",
-    "data_aggiornamento": "2026-10-31T06:51:04.330299+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:27.311294+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Edge",
@@ -12271,7 +11783,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-edge-4758381/",
-    "data_aggiornamento": "2026-10-31T06:51:06.082551+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:29.021085+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Edge",
@@ -12330,7 +11842,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-edge-4760492/",
-    "data_aggiornamento": "2026-10-31T06:51:07.818518+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:30.729658+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Edge",
@@ -12389,7 +11901,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-edge-4762191/",
-    "data_aggiornamento": "2026-10-31T06:51:09.554930+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:32.457105+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Edge",
@@ -12449,7 +11961,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-edge-4783456/",
-    "data_aggiornamento": "2026-10-31T06:51:11.322222+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:34.167063+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Edge",
@@ -12508,7 +12020,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-edge-4784299/",
-    "data_aggiornamento": "2026-10-31T06:51:13.059843+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:35.876454+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Edge",
@@ -12567,7 +12079,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-edge-4786912/",
-    "data_aggiornamento": "2026-10-31T06:51:14.802522+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:37.629704+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Edge",
@@ -12626,7 +12138,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-edge-4787666/",
-    "data_aggiornamento": "2026-10-31T06:51:16.536406+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:39.337459+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Edge",
@@ -12687,7 +12199,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-edge-4790354/",
-    "data_aggiornamento": "2026-10-31T06:51:18.307485+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:41.052574+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Edge",
@@ -12745,7 +12257,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-edge-4796790/",
-    "data_aggiornamento": "2026-10-31T06:51:20.038546+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:42.830644+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Tribe Edition",
@@ -12809,7 +12321,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-tribe-edition-4725522/",
-    "data_aggiornamento": "2026-10-31T06:51:21.780146+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:44.607688+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Tribe Edition",
@@ -12872,7 +12384,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-tribe-edition-4728664/",
-    "data_aggiornamento": "2026-10-31T06:51:23.518884+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:46.321375+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Tribe Edition",
@@ -12936,7 +12448,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-tribe-edition-4765864/",
-    "data_aggiornamento": "2026-10-31T06:51:25.250152+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:48.043446+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Tribe Edition",
@@ -13001,7 +12513,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-tribe-edition-4765866/",
-    "data_aggiornamento": "2026-10-31T06:51:26.991152+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:49.768639+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Tribe Edition",
@@ -13063,7 +12575,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-tribe-edition-4784863/",
-    "data_aggiornamento": "2026-10-31T06:51:28.725857+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:51.484908+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 e-Hybrid 204 CV DSG Tribe Edition",
@@ -13124,7 +12636,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-e-hybrid-204-cv-dsg-tribe-edition-4790975/",
-    "data_aggiornamento": "2026-10-31T06:51:30.476521+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:53.186680+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 Hybrid 150 CV DSG Edge",
@@ -13185,7 +12697,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-hybrid-150-cv-dsg-edge-4714759/",
-    "data_aggiornamento": "2026-10-31T06:51:32.207192+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:54.921611+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 Hybrid 150 CV DSG Edge",
@@ -13243,7 +12755,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-hybrid-150-cv-dsg-edge-4736891/",
-    "data_aggiornamento": "2026-10-31T06:51:33.967264+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:56.643040+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 Hybrid 150 CV DSG Edge",
@@ -13301,11 +12813,11 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-hybrid-150-cv-dsg-edge-4741775/",
-    "data_aggiornamento": "2026-10-31T06:51:35.705303+00:00"
+    "data_aggiornamento": "2026-11-01T06:56:58.360271+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 Hybrid 150 CV DSG Edge",
-    "numero_pratica": "12948",
+    "numero_pratica": "12947",
     "alimentazione": "Mild Hybrid",
     "potenza": "150 CV(110 kW)",
     "colore_esterno": "Nero Midnight",
@@ -13359,8 +12871,8 @@
       "Vetri elettrici posteriori"
     ],
     "numero_accessori": 43,
-    "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-hybrid-150-cv-dsg-edge-4819689/",
-    "data_aggiornamento": "2026-10-31T06:51:37.438490+00:00"
+    "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-hybrid-150-cv-dsg-edge-4821460/",
+    "data_aggiornamento": "2026-11-01T06:57:00.067408+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 Hybrid 150 CV DSG Tribe Edition",
@@ -13422,7 +12934,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-hybrid-150-cv-dsg-tribe-edition-4765055/",
-    "data_aggiornamento": "2026-10-31T06:51:39.186312+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:01.792587+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 Hybrid 150 CV DSG Tribe Edition",
@@ -13485,7 +12997,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-hybrid-150-cv-dsg-tribe-edition-4793975/",
-    "data_aggiornamento": "2026-10-31T06:51:40.932780+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:03.532723+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 TSI 150 CV",
@@ -13543,7 +13055,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-tsi-150-cv-4733887/",
-    "data_aggiornamento": "2026-10-31T06:51:42.661719+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:05.240913+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 TSI 150 CV",
@@ -13601,7 +13113,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/leon/leon-15-tsi-150-cv-4816853/",
-    "data_aggiornamento": "2026-10-31T06:51:44.389395+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:06.953312+00:00"
   },
   {
     "modello": "CUPRA Tavascan Endurance Immersive RWD 77kWh 286CV",
@@ -13659,7 +13171,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/tavascan/tavascan-endurance-immersive-rwd-77kwh-286cv-4719574/",
-    "data_aggiornamento": "2026-10-31T06:51:46.161016+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:08.673111+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG",
@@ -13720,7 +13232,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-4789586/",
-    "data_aggiornamento": "2026-10-31T06:51:47.901142+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:10.385863+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG",
@@ -13781,7 +13293,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-4790974/",
-    "data_aggiornamento": "2026-10-31T06:51:49.635114+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:12.101444+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG",
@@ -13841,7 +13353,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-4795076/",
-    "data_aggiornamento": "2026-10-31T06:51:51.367341+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:13.809666+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG",
@@ -13899,7 +13411,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-4796789/",
-    "data_aggiornamento": "2026-10-31T06:51:53.100024+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:15.516840+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG",
@@ -13958,65 +13470,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-4803345/",
-    "data_aggiornamento": "2026-10-31T06:51:54.847484+00:00"
-  },
-  {
-    "modello": "CUPRA Terramar 1.5 e-Hybrid DSG",
-    "numero_pratica": "12736",
-    "alimentazione": "Plug-In Hybrid",
-    "potenza": "204 CV(150 kW)",
-    "colore_esterno": "Grigio Tambora",
-    "chilometraggio": null,
-    "chilometraggio_km": null,
-    "immatricolazione": null,
-    "prezzo_euro": 49600,
-    "accessori": [
-      "Cavo per stazione di ricarica a corrente alternata (16 A)(Mode 3)",
-      "Cerchi in lega leggera Atomic Machine da 18 verniciati, 8J x 18, Nero Opaco",
-      "Pacchetto a prezzo scontato",
-      "Pacchetto Edge",
-      "ABS",
-      "Airbag guida",
-      "Airbag laterali",
-      "Airbag passeggero",
-      "Airbag per la testa",
-      "Appoggiatesta posteriori",
-      "Assistente attivo mantenimento traiettoria",
-      "Autoradio",
-      "Avviso del cambio di corsia",
-      "Bracciolo sedili anteriori",
-      "Cerchi in lega",
-      "Chiusura centralizzata",
-      "Climatizzatore",
-      "Connessione dati",
-      "Controllo automatico velocità",
-      "Controllo elettronico della stabilità",
-      "Controllo elettronico della trazione",
-      "Correttore assetto fari",
-      "Fari anteriori a LED",
-      "Fendinebbia",
-      "Frenata automatica di emergenza",
-      "Immobilizzatore",
-      "Pretensionatore cinture",
-      "Radio DAB",
-      "Retrovisori elettrici",
-      "Riconoscimento pedone",
-      "Riconoscimento segnali stradali",
-      "Sedile guida regolabile in altezza",
-      "Sedile posteriore sdoppiato",
-      "Sensore luci",
-      "Sensore pioggia",
-      "Sensori di parcheggio posteriori",
-      "Servosterzo",
-      "Sistema di detezione distrazione del guidatore",
-      "Telecamera posteriore",
-      "Tergilunotto",
-      "Vetri elettrici anteriori",
-      "Vetri elettrici posteriori"
-    ],
-    "numero_accessori": 42,
-    "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-4806485/",
-    "data_aggiornamento": "2026-10-31T06:51:56.577182+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:17.226541+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG",
@@ -14076,7 +13530,65 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-4811992/",
-    "data_aggiornamento": "2026-10-31T06:51:58.319374+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:18.932310+00:00"
+  },
+  {
+    "modello": "CUPRA Terramar 1.5 e-Hybrid DSG",
+    "numero_pratica": "12845",
+    "alimentazione": "Plug-In Hybrid",
+    "potenza": "204 CV(150 kW)",
+    "colore_esterno": "Grigio Tambora",
+    "chilometraggio": null,
+    "chilometraggio_km": null,
+    "immatricolazione": null,
+    "prezzo_euro": 49600,
+    "accessori": [
+      "Cavo per stazione di ricarica a corrente alternata (16 A)(Mode 3)",
+      "Cerchi in lega leggera Atomic Machine da 18 verniciati, 8J x 18, Nero Opaco",
+      "Pacchetto a prezzo scontato",
+      "Pacchetto Edge",
+      "ABS",
+      "Airbag guida",
+      "Airbag laterali",
+      "Airbag passeggero",
+      "Airbag per la testa",
+      "Appoggiatesta posteriori",
+      "Assistente attivo mantenimento traiettoria",
+      "Autoradio",
+      "Avviso del cambio di corsia",
+      "Bracciolo sedili anteriori",
+      "Cerchi in lega",
+      "Chiusura centralizzata",
+      "Climatizzatore",
+      "Connessione dati",
+      "Controllo automatico velocità",
+      "Controllo elettronico della stabilità",
+      "Controllo elettronico della trazione",
+      "Correttore assetto fari",
+      "Fari anteriori a LED",
+      "Fendinebbia",
+      "Frenata automatica di emergenza",
+      "Immobilizzatore",
+      "Pretensionatore cinture",
+      "Radio DAB",
+      "Retrovisori elettrici",
+      "Riconoscimento pedone",
+      "Riconoscimento segnali stradali",
+      "Sedile guida regolabile in altezza",
+      "Sedile posteriore sdoppiato",
+      "Sensore luci",
+      "Sensore pioggia",
+      "Sensori di parcheggio posteriori",
+      "Servosterzo",
+      "Sistema di detezione distrazione del guidatore",
+      "Telecamera posteriore",
+      "Tergilunotto",
+      "Vetri elettrici anteriori",
+      "Vetri elettrici posteriori"
+    ],
+    "numero_accessori": 42,
+    "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-4821459/",
+    "data_aggiornamento": "2026-11-01T06:57:20.659754+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG Impulse",
@@ -14139,7 +13651,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-impulse-4765056/",
-    "data_aggiornamento": "2026-10-31T06:52:00.058934+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:22.371712+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG Impulse",
@@ -14203,7 +13715,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-impulse-4765057/",
-    "data_aggiornamento": "2026-10-31T06:52:01.802196+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:24.087657+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG Impulse",
@@ -14266,7 +13778,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-impulse-4788882/",
-    "data_aggiornamento": "2026-10-31T06:52:03.550933+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:25.794793+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG Impulse",
@@ -14326,7 +13838,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-impulse-4800929/",
-    "data_aggiornamento": "2026-10-31T06:52:05.280224+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:27.506100+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG Impulse",
@@ -14387,7 +13899,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-impulse-4807151/",
-    "data_aggiornamento": "2026-10-31T06:52:07.020130+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:29.234064+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG Impulse",
@@ -14447,7 +13959,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-impulse-4812627/",
-    "data_aggiornamento": "2026-10-31T06:52:08.770973+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:30.977869+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 e-Hybrid DSG VZ",
@@ -14510,7 +14022,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-e-hybrid-dsg-vz-4809173/",
-    "data_aggiornamento": "2026-10-31T06:52:10.522837+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:32.693135+00:00"
   },
   {
     "modello": "CUPRA Terramar 1.5 Hybrid DSG Business",
@@ -14571,7 +14083,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/cupra/terramar/terramar-15-hybrid-dsg-business-4804657/",
-    "data_aggiornamento": "2026-10-31T06:52:12.261219+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:34.404463+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI 115 CV Black Edition",
@@ -14631,7 +14143,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-115-cv-black-edition-4659557/",
-    "data_aggiornamento": "2026-10-31T06:52:14.030989+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:36.114589+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI 115 CV Black Edition",
@@ -14691,7 +14203,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-115-cv-black-edition-4711423/",
-    "data_aggiornamento": "2026-10-31T06:52:15.766638+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:37.832707+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI 115 CV Black Edition",
@@ -14752,7 +14264,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-115-cv-black-edition-4739743/",
-    "data_aggiornamento": "2026-10-31T06:52:17.520970+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:39.539938+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI 115 CV DSG FR",
@@ -14811,7 +14323,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-115-cv-dsg-fr-4732228/",
-    "data_aggiornamento": "2026-10-31T06:52:19.254073+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:41.266618+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI 115 CV FR",
@@ -14876,7 +14388,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-115-cv-fr-4719575/",
-    "data_aggiornamento": "2026-10-31T06:52:20.992423+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:42.984852+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI 115 CV FR",
@@ -14942,7 +14454,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-115-cv-fr-4739744/",
-    "data_aggiornamento": "2026-10-31T06:52:22.736237+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:44.686454+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI Black Edition",
@@ -15002,7 +14514,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-black-edition-4655461/",
-    "data_aggiornamento": "2026-10-31T06:52:24.471195+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:46.410546+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI Black Edition",
@@ -15062,7 +14574,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-black-edition-4657735/",
-    "data_aggiornamento": "2026-10-31T06:52:26.210057+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:48.131257+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI Black Edition",
@@ -15123,7 +14635,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-black-edition-4674753/",
-    "data_aggiornamento": "2026-10-31T06:52:27.945267+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:49.850135+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI Black Edition",
@@ -15184,7 +14696,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-black-edition-4690265/",
-    "data_aggiornamento": "2026-10-31T06:52:29.680074+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:51.552253+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI Black Edition",
@@ -15245,7 +14757,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-black-edition-4698411/",
-    "data_aggiornamento": "2026-10-31T06:52:31.415648+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:53.274053+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI Black Edition",
@@ -15306,7 +14818,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-black-edition-4713351/",
-    "data_aggiornamento": "2026-10-31T06:52:33.154661+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:55.003277+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI Black Edition",
@@ -15365,7 +14877,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-black-edition-4717194/",
-    "data_aggiornamento": "2026-10-31T06:52:34.887850+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:56.714148+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI Black Edition",
@@ -15426,7 +14938,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-black-edition-4717196/",
-    "data_aggiornamento": "2026-10-31T06:52:36.625899+00:00"
+    "data_aggiornamento": "2026-11-01T06:57:58.471037+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI Black Edition",
@@ -15486,7 +14998,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-black-edition-4730505/",
-    "data_aggiornamento": "2026-10-31T06:52:38.360892+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:00.179946+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI Black Edition",
@@ -15549,7 +15061,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-black-edition-4753770/",
-    "data_aggiornamento": "2026-10-31T06:52:40.093077+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:01.893035+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 EcoTSI FR",
@@ -15615,7 +15127,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/arona/arona-10-ecotsi-fr-4742253/",
-    "data_aggiornamento": "2026-10-31T06:52:41.863867+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:03.683140+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 115 CV 5 porte FR",
@@ -15671,7 +15183,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-115-cv-5-porte-fr-4708749/",
-    "data_aggiornamento": "2026-10-31T06:52:43.599240+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:05.413724+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 115 CV 5 porte FR",
@@ -15733,7 +15245,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-115-cv-5-porte-fr-4722404/",
-    "data_aggiornamento": "2026-10-31T06:52:45.337823+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:07.117671+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 115 CV 5 porte FR",
@@ -15794,7 +15306,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-115-cv-5-porte-fr-4787665/",
-    "data_aggiornamento": "2026-10-31T06:52:47.083469+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:08.840922+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 115 CV 5 porte Style",
@@ -15848,7 +15360,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-115-cv-5-porte-style-4739742/",
-    "data_aggiornamento": "2026-10-31T06:52:48.824060+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:10.549568+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 115 CV DSG 5 porte FR",
@@ -15909,7 +15421,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-115-cv-dsg-5-porte-fr-4701408/",
-    "data_aggiornamento": "2026-10-31T06:52:50.574713+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:12.257198+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 115 CV DSG 5 porte FR",
@@ -15966,7 +15478,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-115-cv-dsg-5-porte-fr-4716180/",
-    "data_aggiornamento": "2026-10-31T06:52:52.303888+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:13.980247+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 95 CV 5 porte FR",
@@ -16027,7 +15539,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-95-cv-5-porte-fr-4681410/",
-    "data_aggiornamento": "2026-10-31T06:52:54.033305+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:15.684797+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 95 CV 5 porte FR",
@@ -16088,7 +15600,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-95-cv-5-porte-fr-4709733/",
-    "data_aggiornamento": "2026-10-31T06:52:55.762401+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:17.393064+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 95 CV 5 porte FR",
@@ -16146,7 +15658,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-95-cv-5-porte-fr-4713349/",
-    "data_aggiornamento": "2026-10-31T06:52:57.500988+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:19.107437+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 95 CV 5 porte FR",
@@ -16202,7 +15714,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-95-cv-5-porte-fr-4733081/",
-    "data_aggiornamento": "2026-10-31T06:52:59.237400+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:20.820308+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 EcoTSI 95 CV 5 porte FR",
@@ -16264,7 +15776,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-ecotsi-95-cv-5-porte-fr-4736889/",
-    "data_aggiornamento": "2026-10-31T06:53:00.965744+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:22.536355+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 MPI 5 porte FR",
@@ -16320,7 +15832,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-mpi-5-porte-fr-4708748/",
-    "data_aggiornamento": "2026-10-31T06:53:02.699498+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:24.257568+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 MPI 5 porte Style",
@@ -16372,49 +15884,7 @@
     ],
     "numero_accessori": 36,
     "url": "https://www.wendecar.it/ricerca-auto/nuove/seat/ibiza/ibiza-10-mpi-5-porte-style-4789585/",
-    "data_aggiornamento": "2026-10-31T06:53:04.458852+00:00"
-  },
-  {
-    "modello": "AUDI A1 allstreet 30 1.0 tfsi business 116cv",
-    "numero_pratica": "19416",
-    "alimentazione": "Benzina",
-    "potenza": "116 CV(85 kW)",
-    "colore_esterno": "Grigio chronos",
-    "chilometraggio": "7.712 Km",
-    "chilometraggio_km": 7712,
-    "immatricolazione": "10/2025",
-    "prezzo_euro": 25500,
-    "accessori": [
-      "Audi phone box",
-      "Audi smartphone interface",
-      "Avviso di abbandono corsia",
-      "Bracciolo centrale anteriore comfort",
-      "Cerchi in lega da 16\" design a 10 razze",
-      "Climatizzatore automatico comfort a 2 zone",
-      "Quadro strumenti digitale",
-      "Regolatore di velocità",
-      "Riconoscimento della segnaletica stradale",
-      "Riscaldamento dei sedili anteriori",
-      "Sedili anteriori sportivi in tessuto Derby",
-      "Sistema audio Audi",
-      "Sensori di parcheggio posteriori",
-      "Specchietti retrovisori ripiegabili e riscaldabili elettricamente",
-      "Vetri privacy",
-      "Volante in pelle a 3 razze multifunzionale",
-      "Disponibilità di",
-      "test drive",
-      "su strada, vi aspettiamo presso le nostre sedi di",
-      "Varese",
-      "e",
-      "Solbiate Olona",
-      ".",
-      "Valutiamo",
-      "permutiamo",
-      "il tuo usato, il nostro Staff è a tua disposizione per una valutazione personalizzata."
-    ],
-    "numero_accessori": 26,
-    "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a1-allstreet/a1-allstreet-30-10-tfsi-business-116cv-4766697/",
-    "data_aggiornamento": "2026-10-31T06:53:06.194594+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:26.016468+00:00"
   },
   {
     "modello": "AUDI A1 allstreet 30 1.0 tfsi business 116cv",
@@ -16468,7 +15938,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a1-allstreet/a1-allstreet-30-10-tfsi-business-116cv-4780840/",
-    "data_aggiornamento": "2026-10-31T06:53:07.944620+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:27.732444+00:00"
   },
   {
     "modello": "AUDI A1 allstreet 30 1.0 tfsi business 116cv s tronic",
@@ -16512,7 +15982,7 @@
     ],
     "numero_accessori": 28,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a1-allstreet/a1-allstreet-30-10-tfsi-business-116cv-s-tronic-4767817/",
-    "data_aggiornamento": "2026-10-31T06:53:09.739782+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:29.468980+00:00"
   },
   {
     "modello": "AUDI A1 sportback 25 1.0 tfsi admired advanced s-tronic my20",
@@ -16560,7 +16030,7 @@
     ],
     "numero_accessori": 32,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a1-sportback/a1-sportback-25-10-tfsi-admired-advanced-s-tronic-my20-4767818/",
-    "data_aggiornamento": "2026-10-31T06:53:11.481416+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:31.185733+00:00"
   },
   {
     "modello": "AUDI A1 sportback 25 1.0 tfsi s line edition s-tronic my20",
@@ -16612,7 +16082,7 @@
     ],
     "numero_accessori": 36,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a1-sportback/a1-sportback-25-10-tfsi-s-line-edition-s-tronic-my20-4816163/",
-    "data_aggiornamento": "2026-10-31T06:53:13.249702+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:32.945725+00:00"
   },
   {
     "modello": "AUDI A1 sportback 30 1.0 tfsi business 116cv",
@@ -16661,7 +16131,7 @@
     ],
     "numero_accessori": 33,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a1-sportback/a1-sportback-30-10-tfsi-business-116cv-4760749/",
-    "data_aggiornamento": "2026-10-31T06:53:15.148059+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:34.675840+00:00"
   },
   {
     "modello": "AUDI A1 sportback 30 1.0 tfsi business 116cv s-tronic",
@@ -16714,7 +16184,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a1-sportback/a1-sportback-30-10-tfsi-business-116cv-s-tronic-4741272/",
-    "data_aggiornamento": "2026-10-31T06:53:16.892964+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:36.402793+00:00"
   },
   {
     "modello": "AUDI A1 sportback 30 1.0 tfsi business 116cv s-tronic",
@@ -16757,7 +16227,7 @@
     ],
     "numero_accessori": 27,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a1-sportback/a1-sportback-30-10-tfsi-business-116cv-s-tronic-4766540/",
-    "data_aggiornamento": "2026-10-31T06:53:18.629756+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:38.115942+00:00"
   },
   {
     "modello": "AUDI A1 sportback 30 1.0 tfsi business 116cv s-tronic",
@@ -16799,7 +16269,7 @@
     ],
     "numero_accessori": 26,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a1-sportback/a1-sportback-30-10-tfsi-business-116cv-s-tronic-4767820/",
-    "data_aggiornamento": "2026-10-31T06:53:20.378656+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:39.846960+00:00"
   },
   {
     "modello": "AUDI A1 sportback 30 1.0 tfsi s line edition 110cv",
@@ -16845,7 +16315,7 @@
     ],
     "numero_accessori": 30,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a1-sportback/a1-sportback-30-10-tfsi-s-line-edition-110cv-4816165/",
-    "data_aggiornamento": "2026-10-31T06:53:22.139251+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:41.558004+00:00"
   },
   {
     "modello": "AUDI A3 allstreet 1.5 tfsi mhev business 150cv s-tronic",
@@ -16893,7 +16363,7 @@
     ],
     "numero_accessori": 32,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-allstreet/a3-allstreet-15-tfsi-mhev-business-150cv-s-tronic-4794667/",
-    "data_aggiornamento": "2026-10-31T06:53:23.884591+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:43.290926+00:00"
   },
   {
     "modello": "AUDI A3 allstreet 1.5 tfsi mhev business advanced 150cv s-tronic",
@@ -16941,7 +16411,7 @@
     ],
     "numero_accessori": 32,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-allstreet/a3-allstreet-15-tfsi-mhev-business-advanced-150cv-s-tronic-4717611/",
-    "data_aggiornamento": "2026-10-31T06:53:25.631435+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:45.028625+00:00"
   },
   {
     "modello": "AUDI A3 allstreet 1.5 tfsi mhev identity contrast 150cv s-tronic",
@@ -16994,7 +16464,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-allstreet/a3-allstreet-15-tfsi-mhev-identity-contrast-150cv-s-tronic-4819042/",
-    "data_aggiornamento": "2026-10-31T06:53:27.369012+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:46.754476+00:00"
   },
   {
     "modello": "AUDI A3 allstreet 2.0 tdi identity contrast 150cv s-tronic",
@@ -17058,7 +16528,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-allstreet/a3-allstreet-20-tdi-identity-contrast-150cv-s-tronic-4819044/",
-    "data_aggiornamento": "2026-10-31T06:53:29.118821+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:48.488520+00:00"
   },
   {
     "modello": "AUDI A3 allstreet 2.0 tdi identity contrast 150cv s-tronic",
@@ -17122,7 +16592,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-allstreet/a3-allstreet-20-tdi-identity-contrast-150cv-s-tronic-4819045/",
-    "data_aggiornamento": "2026-10-31T06:53:30.857433+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:50.245434+00:00"
   },
   {
     "modello": "AUDI A3 sportback 1.5 tfsi business advanced 116cv",
@@ -17176,7 +16646,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-sportback/a3-sportback-15-tfsi-business-advanced-116cv-4816217/",
-    "data_aggiornamento": "2026-10-31T06:53:32.596842+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:52.013414+00:00"
   },
   {
     "modello": "AUDI A3 sportback 1.5 tfsi mhev business 150cv s-tronic",
@@ -17234,7 +16704,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-sportback/a3-sportback-15-tfsi-mhev-business-150cv-s-tronic-4787308/",
-    "data_aggiornamento": "2026-10-31T06:53:34.348135+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:53.731488+00:00"
   },
   {
     "modello": "AUDI A3 sportback 1.5 tfsi mhev business advanced 150cv s-tronic",
@@ -17245,7 +16715,7 @@
     "chilometraggio": "16.081 Km",
     "chilometraggio_km": 16081,
     "immatricolazione": "2/2025",
-    "prezzo_euro": 32700,
+    "prezzo_euro": 34500,
     "accessori": [
       "Assistente di sterzata e di svolta",
       "Application store e smartphone interface",
@@ -17282,7 +16752,7 @@
     ],
     "numero_accessori": 32,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-sportback/a3-sportback-15-tfsi-mhev-business-advanced-150cv-s-tronic-4794666/",
-    "data_aggiornamento": "2026-10-31T06:53:36.127261+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:55.453737+00:00"
   },
   {
     "modello": "AUDI A3 sportback 2.0 tdi business advanced 150cv s-tronic",
@@ -17333,7 +16803,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-sportback/a3-sportback-20-tdi-business-advanced-150cv-s-tronic-4794674/",
-    "data_aggiornamento": "2026-10-31T06:53:37.861065+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:57.171692+00:00"
   },
   {
     "modello": "AUDI A3 sportback 2.0 tdi s line edition 150cv s-tronic",
@@ -17386,7 +16856,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-sportback/a3-sportback-20-tdi-s-line-edition-150cv-s-tronic-4708494/",
-    "data_aggiornamento": "2026-10-31T06:53:39.615628+00:00"
+    "data_aggiornamento": "2026-11-01T06:58:58.896296+00:00"
   },
   {
     "modello": "AUDI A3 sportback 2.0 tdi s line edition 150cv s-tronic",
@@ -17441,7 +16911,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-sportback/a3-sportback-20-tdi-s-line-edition-150cv-s-tronic-4741274/",
-    "data_aggiornamento": "2026-10-31T06:53:41.351788+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:00.635071+00:00"
   },
   {
     "modello": "AUDI A3 sportback 2.0 tdi s line edition 150cv s-tronic",
@@ -17496,7 +16966,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-sportback/a3-sportback-20-tdi-s-line-edition-150cv-s-tronic-4743350/",
-    "data_aggiornamento": "2026-10-31T06:53:43.089301+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:02.362435+00:00"
   },
   {
     "modello": "AUDI A3 sportback 2.0 tdi s line edition 150cv s-tronic",
@@ -17507,7 +16977,7 @@
     "chilometraggio": "31.450 Km",
     "chilometraggio_km": 31450,
     "immatricolazione": "5/2025",
-    "prezzo_euro": 31900,
+    "prezzo_euro": 33300,
     "accessori": [
       "Assistente di fermata",
       "Adaptive cruise control",
@@ -17551,7 +17021,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-sportback/a3-sportback-20-tdi-s-line-edition-150cv-s-tronic-4756861/",
-    "data_aggiornamento": "2026-10-31T06:53:44.817961+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:04.082368+00:00"
   },
   {
     "modello": "AUDI A3 sportback 2.0 tdi s line edition 150cv s-tronic",
@@ -17606,7 +17076,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a3-sportback/a3-sportback-20-tdi-s-line-edition-150cv-s-tronic-4812217/",
-    "data_aggiornamento": "2026-10-31T06:53:46.558699+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:05.804334+00:00"
   },
   {
     "modello": "AUDI A4 allroad 40 2.0 tdi mhev business evolution quattro 204cv s-tronic",
@@ -17660,7 +17130,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a4-allroad/a4-allroad-40-20-tdi-mhev-business-evolution-quattro-204cv-s-tronic-4712961/",
-    "data_aggiornamento": "2026-10-31T06:53:48.304796+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:07.526475+00:00"
   },
   {
     "modello": "AUDI A4 avant 40 2.0 tdi mhev s line edition quattro 204cv s-tronic",
@@ -17722,7 +17192,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a4-avant/a4-avant-40-20-tdi-mhev-s-line-edition-quattro-204cv-s-tronic-4734194/",
-    "data_aggiornamento": "2026-10-31T06:53:50.042030+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:09.242168+00:00"
   },
   {
     "modello": "AUDI A4 avant 40 2.0 tdi mhev s line edition quattro 204cv s-tronic",
@@ -17784,7 +17254,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a4-avant/a4-avant-40-20-tdi-mhev-s-line-edition-quattro-204cv-s-tronic-4734195/",
-    "data_aggiornamento": "2026-10-31T06:53:51.815161+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:10.970736+00:00"
   },
   {
     "modello": "AUDI A5 avant 2.0 e-hybrid s line edition quattro 299cv s-tronic",
@@ -17849,7 +17319,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a5-avant/a5-avant-20-e-hybrid-s-line-edition-quattro-299cv-s-tronic-4756032/",
-    "data_aggiornamento": "2026-10-31T06:53:53.555764+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:12.693661+00:00"
   },
   {
     "modello": "AUDI A5 avant 2.0 tdi mhev+ business advanced 204cv s-tronic",
@@ -17900,7 +17370,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a5-avant/a5-avant-20-tdi-mhev-business-advanced-204cv-s-tronic-4758981/",
-    "data_aggiornamento": "2026-10-31T06:53:55.293608+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:14.417546+00:00"
   },
   {
     "modello": "AUDI A5 avant 2.0 tdi mhev+ business advanced 204cv s-tronic",
@@ -17951,7 +17421,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a5-avant/a5-avant-20-tdi-mhev-business-advanced-204cv-s-tronic-4795645/",
-    "data_aggiornamento": "2026-10-31T06:53:57.042394+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:16.139724+00:00"
   },
   {
     "modello": "AUDI A5 avant 2.0 tdi mhev+ business advanced 204cv s-tronic",
@@ -18002,7 +17472,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a5-avant/a5-avant-20-tdi-mhev-business-advanced-204cv-s-tronic-4808524/",
-    "data_aggiornamento": "2026-10-31T06:53:58.781432+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:17.909133+00:00"
   },
   {
     "modello": "AUDI A5 avant 2.0 tdi mhev+ business advanced 204cv s-tronic",
@@ -18053,7 +17523,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a5-avant/a5-avant-20-tdi-mhev-business-advanced-204cv-s-tronic-4813981/",
-    "data_aggiornamento": "2026-10-31T06:54:00.535704+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:19.616374+00:00"
   },
   {
     "modello": "AUDI A5 avant 2.0 tdi mhev+ s line edition quattro 204cv s-tronic",
@@ -18118,7 +17588,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a5-avant/a5-avant-20-tdi-mhev-s-line-edition-quattro-204cv-s-tronic-4760846/",
-    "data_aggiornamento": "2026-10-31T06:54:02.313501+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:21.337706+00:00"
   },
   {
     "modello": "AUDI A5 berlina 2.0 e-hybrid s line edition quattro 299cv s-tronic",
@@ -18171,7 +17641,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a5/a5-berlina-20-e-hybrid-s-line-edition-quattro-299cv-s-tronic-4732651/",
-    "data_aggiornamento": "2026-10-31T06:54:04.054339+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:23.055231+00:00"
   },
   {
     "modello": "AUDI A5 berlina 2.0 tdi mhev+ launch edition one quattro 204cv s-tronic",
@@ -18248,7 +17718,7 @@
     ],
     "numero_accessori": 61,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a5/a5-berlina-20-tdi-mhev-launch-edition-one-quattro-204cv-s-tronic-4794449/",
-    "data_aggiornamento": "2026-10-31T06:54:05.799042+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:24.762754+00:00"
   },
   {
     "modello": "AUDI A5 berlina 2.0 tfsi s line edition quattro 204cv s-tronic",
@@ -18305,7 +17775,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a5/a5-berlina-20-tfsi-s-line-edition-quattro-204cv-s-tronic-4769303/",
-    "data_aggiornamento": "2026-10-31T06:54:07.536310+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:26.485574+00:00"
   },
   {
     "modello": "AUDI A6 avant 2.0 e-hybrid s line edition quattro 299cv s-tronic",
@@ -18357,7 +17827,7 @@
     ],
     "numero_accessori": 36,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-20-e-hybrid-s-line-edition-quattro-299cv-s-tronic-4806844/",
-    "data_aggiornamento": "2026-10-31T06:54:09.293298+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:28.198985+00:00"
   },
   {
     "modello": "AUDI A6 avant 2.0 tdi mhev + business advanced quattro 204cv s-tronic",
@@ -18412,7 +17882,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-20-tdi-mhev-business-advanced-quattro-204cv-s-tronic-4784554/",
-    "data_aggiornamento": "2026-10-31T06:54:11.030212+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:29.925169+00:00"
   },
   {
     "modello": "AUDI A6 avant 2.0 tdi mhev + s line edition quattro 204cv s-tronic",
@@ -18470,7 +17940,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-20-tdi-mhev-s-line-edition-quattro-204cv-s-tronic-4717615/",
-    "data_aggiornamento": "2026-10-31T06:54:12.761850+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:31.643753+00:00"
   },
   {
     "modello": "AUDI A6 avant 2.0 tdi mhev + s line edition quattro 204cv s-tronic",
@@ -18530,7 +18000,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-20-tdi-mhev-s-line-edition-quattro-204cv-s-tronic-4717761/",
-    "data_aggiornamento": "2026-10-31T06:54:14.517314+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:33.369449+00:00"
   },
   {
     "modello": "AUDI A6 avant 40 2.0 tdi mhev 12v business advanced quattro s-tronic",
@@ -18591,7 +18061,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-40-20-tdi-mhev-12v-business-advanced-quattro-s-tronic-4713473/",
-    "data_aggiornamento": "2026-10-31T06:54:16.256276+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:35.084107+00:00"
   },
   {
     "modello": "AUDI A6 avant 40 2.0 tdi mhev 12v business advanced s-tronic",
@@ -18655,7 +18125,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-40-20-tdi-mhev-12v-business-advanced-s-tronic-4794450/",
-    "data_aggiornamento": "2026-10-31T06:54:17.995783+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:36.797136+00:00"
   },
   {
     "modello": "AUDI A6 avant 40 2.0 tdi mhev 12v s line edition quattro s-tronic",
@@ -18709,7 +18179,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-40-20-tdi-mhev-12v-s-line-edition-quattro-s-tronic-4740612/",
-    "data_aggiornamento": "2026-10-31T06:54:19.739077+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:38.526374+00:00"
   },
   {
     "modello": "AUDI A6 avant 40 2.0 tdi mhev 12v s line edition quattro s-tronic",
@@ -18772,7 +18242,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-40-20-tdi-mhev-12v-s-line-edition-quattro-s-tronic-4791558/",
-    "data_aggiornamento": "2026-10-31T06:54:21.481781+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:40.239378+00:00"
   },
   {
     "modello": "AUDI A6 avant 40 2.0 tdi mhev 12v s line edition quattro s-tronic",
@@ -18829,7 +18299,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-40-20-tdi-mhev-12v-s-line-edition-quattro-s-tronic-4818052/",
-    "data_aggiornamento": "2026-10-31T06:54:23.219048+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:41.941478+00:00"
   },
   {
     "modello": "AUDI A6 avant 50 2.0 tfsi e business quattro s-tronic",
@@ -18891,7 +18361,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-50-20-tfsi-e-business-quattro-s-tronic-4750162/",
-    "data_aggiornamento": "2026-10-31T06:54:24.953340+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:43.660945+00:00"
   },
   {
     "modello": "AUDI A6 avant 50 2.0 tfsi e business quattro s-tronic",
@@ -18952,7 +18422,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-50-20-tfsi-e-business-quattro-s-tronic-4794448/",
-    "data_aggiornamento": "2026-10-31T06:54:26.745565+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:45.413349+00:00"
   },
   {
     "modello": "AUDI A6 avant e-tron performance edition one blu malpelo 367cv",
@@ -19002,7 +18472,7 @@
     ],
     "numero_accessori": 34,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-e-tron-performance-edition-one-blu-malpelo-367cv-4806843/",
-    "data_aggiornamento": "2026-10-31T06:54:28.844918+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:47.141266+00:00"
   },
   {
     "modello": "AUDI A6 avant e-tron s line edition quattro 428cv",
@@ -19055,7 +18525,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-e-tron-s-line-edition-quattro-428cv-4702181/",
-    "data_aggiornamento": "2026-10-31T06:54:30.584455+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:48.848671+00:00"
   },
   {
     "modello": "AUDI A6 avant e-tron s line edition quattro 428cv",
@@ -19120,7 +18590,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-avant/a6-avant-e-tron-s-line-edition-quattro-428cv-4745434/",
-    "data_aggiornamento": "2026-10-31T06:54:32.318404+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:50.579440+00:00"
   },
   {
     "modello": "AUDI A6 sportback e-tron s line edition quattro 428cv",
@@ -19176,7 +18646,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6-sportback-e-tron/a6-sportback-e-tron-s-line-edition-quattro-428cv-4717762/",
-    "data_aggiornamento": "2026-10-31T06:54:34.057536+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:52.305577+00:00"
   },
   {
     "modello": "AUDI A6 2.0 e-hybrid edition one grigio daytona quattro 367cv s-tronic",
@@ -19233,7 +18703,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6/a6-20-e-hybrid-edition-one-grigio-daytona-quattro-367cv-s-tronic-4783725/",
-    "data_aggiornamento": "2026-10-31T06:54:35.814437+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:54.012159+00:00"
   },
   {
     "modello": "AUDI A6 50 2.0 tfsi e business advanced quattro s-tronic",
@@ -19284,7 +18754,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/a6/a6-50-20-tfsi-e-business-advanced-quattro-s-tronic-4714317/",
-    "data_aggiornamento": "2026-10-31T06:54:37.556878+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:55.735435+00:00"
   },
   {
     "modello": "AUDI E-tron gt quattro",
@@ -19336,7 +18806,7 @@
     ],
     "numero_accessori": 36,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/e-tron-gt/e-tron-gt-quattro-4791918/",
-    "data_aggiornamento": "2026-10-31T06:54:39.288721+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:57.452532+00:00"
   },
   {
     "modello": "AUDI Q2 30 1.0 tfsi admired",
@@ -19380,7 +18850,7 @@
     ],
     "numero_accessori": 28,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-30-10-tfsi-admired-4804702/",
-    "data_aggiornamento": "2026-10-31T06:54:41.025663+00:00"
+    "data_aggiornamento": "2026-11-01T06:59:59.170735+00:00"
   },
   {
     "modello": "AUDI Q2 30 1.0 tfsi business advanced 116cv",
@@ -19434,7 +18904,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-30-10-tfsi-business-advanced-116cv-4816219/",
-    "data_aggiornamento": "2026-10-31T06:54:42.765499+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:00.889121+00:00"
   },
   {
     "modello": "AUDI Q2 30 1.0 tfsi business advanced 116cv",
@@ -19484,7 +18954,7 @@
     ],
     "numero_accessori": 34,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-30-10-tfsi-business-advanced-116cv-4819043/",
-    "data_aggiornamento": "2026-10-31T06:54:44.505191+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:02.618478+00:00"
   },
   {
     "modello": "AUDI Q2 30 2.0 tdi business s-tronic",
@@ -19531,7 +19001,7 @@
     ],
     "numero_accessori": 31,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-30-20-tdi-business-s-tronic-4762859/",
-    "data_aggiornamento": "2026-10-31T06:54:46.257478+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:04.333436+00:00"
   },
   {
     "modello": "AUDI Q2 35 1.5 tfsi identity black s-tronic",
@@ -19581,56 +19051,7 @@
     ],
     "numero_accessori": 34,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-15-tfsi-identity-black-s-tronic-4786936/",
-    "data_aggiornamento": "2026-10-31T06:54:47.993739+00:00"
-  },
-  {
-    "modello": "AUDI Q2 35 1.5 tfsi s line edition s-tronic",
-    "numero_pratica": "18339",
-    "alimentazione": "Benzina",
-    "potenza": "150 CV(110 kW)",
-    "colore_esterno": "Blu",
-    "chilometraggio": "17.412 Km",
-    "chilometraggio_km": 17412,
-    "immatricolazione": "3/2025",
-    "prezzo_euro": 28900,
-    "accessori": [
-      "Audi pre sense front",
-      "Audi phone box light",
-      "Audi smartphone interface",
-      "Audi virtual cockpit",
-      "Avviso di corsia",
-      "Clima automatico bizona",
-      "Cerchi in lega 18'' a 5 razze a Y",
-      "Ruota di scorta minispare",
-      "Proiettori Matrix LED",
-      "Sensori park anteriori e posteriori",
-      "Chiave comfort",
-      "Regolatore di velocita e limitatore",
-      "Pacchetto sportivo sline esterno",
-      "Pacchetto luci interne a led",
-      "Navigatore mmi plus con mmi touch",
-      "Riconoscimento segnaletica stradale",
-      "Sedili anteriori sportivi",
-      "Blade in tinta carrozzeria",
-      "Parabrezza isolato acusticamente e atermico con fascia grigia antisole",
-      "Sterzo progressivo",
-      "Specchietti regolabili e riscaldabili",
-      "Specchietto interno schermabile",
-      "Volante in pelle 3 razze multifunzione plus",
-      "Disponibilità di",
-      "test drive",
-      "su strada, vi aspettiamo presso le nostre sedi di",
-      "Varese",
-      "e",
-      "Solbiate Olona",
-      ".",
-      "Valutiamo",
-      "permutiamo",
-      "il tuo usato, il nostro Staff è a tua disposizione per una valutazione personalizzata."
-    ],
-    "numero_accessori": 33,
-    "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-15-tfsi-s-line-edition-s-tronic-4702447/",
-    "data_aggiornamento": "2026-10-31T06:54:49.742988+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:06.056060+00:00"
   },
   {
     "modello": "AUDI Q2 35 1.5 tfsi s line edition s-tronic",
@@ -19679,7 +19100,7 @@
     ],
     "numero_accessori": 33,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-15-tfsi-s-line-edition-s-tronic-4724970/",
-    "data_aggiornamento": "2026-10-31T06:54:51.494800+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:07.798206+00:00"
   },
   {
     "modello": "AUDI Q2 35 1.5 tfsi s line edition s-tronic",
@@ -19727,7 +19148,7 @@
     ],
     "numero_accessori": 32,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-15-tfsi-s-line-edition-s-tronic-4786937/",
-    "data_aggiornamento": "2026-10-31T06:54:53.229487+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:09.523613+00:00"
   },
   {
     "modello": "AUDI Q2 35 1.5 tfsi s line edition s-tronic",
@@ -19776,7 +19197,7 @@
     ],
     "numero_accessori": 33,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-15-tfsi-s-line-edition-s-tronic-4792749/",
-    "data_aggiornamento": "2026-10-31T06:54:54.969063+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:11.276005+00:00"
   },
   {
     "modello": "AUDI Q2 35 1.5 tfsi s line edition s-tronic",
@@ -19824,7 +19245,7 @@
     ],
     "numero_accessori": 32,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-15-tfsi-s-line-edition-s-tronic-4792750/",
-    "data_aggiornamento": "2026-10-31T06:54:56.746464+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:12.997160+00:00"
   },
   {
     "modello": "AUDI Q2 35 1.5 tfsi s line edition s-tronic",
@@ -19872,7 +19293,7 @@
     ],
     "numero_accessori": 32,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-15-tfsi-s-line-edition-s-tronic-4792752/",
-    "data_aggiornamento": "2026-10-31T06:54:58.482103+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:14.722845+00:00"
   },
   {
     "modello": "AUDI Q2 35 1.5 tfsi s line edition s-tronic",
@@ -19920,55 +19341,7 @@
     ],
     "numero_accessori": 32,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-15-tfsi-s-line-edition-s-tronic-4792852/",
-    "data_aggiornamento": "2026-10-31T06:55:00.215731+00:00"
-  },
-  {
-    "modello": "AUDI Q2 35 1.5 tfsi s line edition s-tronic",
-    "numero_pratica": "19623",
-    "alimentazione": "Benzina",
-    "potenza": "150 CV(110 kW)",
-    "colore_esterno": "Nero",
-    "chilometraggio": "36.231 Km",
-    "chilometraggio_km": 36231,
-    "immatricolazione": "5/2025",
-    "prezzo_euro": 27500,
-    "accessori": [
-      "Audi pre sense front",
-      "Audi phone box light",
-      "Audi smartphone interface",
-      "Audi virtual cockpit",
-      "Avviso di corsia",
-      "Clima automatico bizona",
-      "Cerchi in lega 18'' a 5 razze a Y",
-      "Ruota di scorta minispare",
-      "Proiettori Matrix LED",
-      "Sensori park anteriori e posteriori",
-      "Chiave comfort",
-      "Regolatore di velocita e limitatore",
-      "Pacchetto sportivo sline esterno",
-      "Pacchetto luci interne a led",
-      "Navigatore mmi plus con mmi touch",
-      "Riconoscimento segnaletica stradale",
-      "Sedili anteriori sportivi",
-      "Parabrezza isolato acusticamente e atermico con fascia grigia antisole",
-      "Sterzo progressivo",
-      "Specchietti regolabili e riscaldabili",
-      "Specchietto interno schermabile",
-      "Volante in pelle 3 razze multifunzione plus",
-      "Disponibilità di",
-      "test drive",
-      "su strada, vi aspettiamo presso le nostre sedi di",
-      "Varese",
-      "e",
-      "Solbiate Olona",
-      ".",
-      "Valutiamo",
-      "permutiamo",
-      "il tuo usato, il nostro Staff è a tua disposizione per una valutazione personalizzata."
-    ],
-    "numero_accessori": 32,
-    "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-15-tfsi-s-line-edition-s-tronic-4795646/",
-    "data_aggiornamento": "2026-10-31T06:55:01.966624+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:16.467267+00:00"
   },
   {
     "modello": "AUDI Q2 35 1.5 tfsi s line edition s-tronic",
@@ -20016,7 +19389,7 @@
     ],
     "numero_accessori": 32,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-15-tfsi-s-line-edition-s-tronic-4807204/",
-    "data_aggiornamento": "2026-10-31T06:55:03.713203+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:18.194134+00:00"
   },
   {
     "modello": "AUDI Q2 35 2.0 tdi business advanced s-tronic",
@@ -20069,7 +19442,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-20-tdi-business-advanced-s-tronic-4728890/",
-    "data_aggiornamento": "2026-10-31T06:55:05.481549+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:19.910974+00:00"
   },
   {
     "modello": "AUDI Q2 35 2.0 tdi business s-tronic",
@@ -20128,7 +19501,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-20-tdi-business-s-tronic-4714320/",
-    "data_aggiornamento": "2026-10-31T06:55:07.217619+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:21.624601+00:00"
   },
   {
     "modello": "AUDI Q2 35 2.0 tdi s line edition s-tronic",
@@ -20177,7 +19550,7 @@
     ],
     "numero_accessori": 33,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-20-tdi-s-line-edition-s-tronic-4793519/",
-    "data_aggiornamento": "2026-10-31T06:55:08.952096+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:23.340221+00:00"
   },
   {
     "modello": "AUDI Q2 35 2.0 tdi s line edition s-tronic",
@@ -20188,7 +19561,7 @@
     "chilometraggio": "42.413 Km",
     "chilometraggio_km": 42413,
     "immatricolazione": "5/2024",
-    "prezzo_euro": 26900,
+    "prezzo_euro": 28300,
     "accessori": [
       "Audi pre sense front",
       "Audi phone box light",
@@ -20226,7 +19599,7 @@
     ],
     "numero_accessori": 33,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q2/q2-35-20-tdi-s-line-edition-s-tronic-4795650/",
-    "data_aggiornamento": "2026-10-31T06:55:10.707379+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:25.063717+00:00"
   },
   {
     "modello": "AUDI Q3 sportback 1.5 e-hybrid business 272cv stronic",
@@ -20297,7 +19670,7 @@
     ],
     "numero_accessori": 55,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3-sportback/q3-sportback-15-e-hybrid-business-272cv-stronic-4733336/",
-    "data_aggiornamento": "2026-10-31T06:55:12.501455+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:26.800188+00:00"
   },
   {
     "modello": "AUDI Q3 sportback 2.0 tdi business 150cv s-tronic",
@@ -20363,7 +19736,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3-sportback/q3-sportback-20-tdi-business-150cv-s-tronic-4737282/",
-    "data_aggiornamento": "2026-10-31T06:55:14.234700+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:28.514707+00:00"
   },
   {
     "modello": "AUDI Q3 sportback 2.0 tfsi business quattro 204cv s-tronic",
@@ -20420,7 +19793,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3-sportback/q3-sportback-20-tfsi-business-quattro-204cv-s-tronic-4802862/",
-    "data_aggiornamento": "2026-10-31T06:55:15.977616+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:30.247521+00:00"
   },
   {
     "modello": "AUDI Q3 sportback 35 1.5 tfsi s-tronic",
@@ -20481,7 +19854,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3-sportback/q3-sportback-35-15-tfsi-s-tronic-4795391/",
-    "data_aggiornamento": "2026-10-31T06:55:17.715253+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:31.970343+00:00"
   },
   {
     "modello": "AUDI Q3 sportback 35 1.5 tfsi s-tronic",
@@ -20533,7 +19906,7 @@
     ],
     "numero_accessori": 36,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3-sportback/q3-sportback-35-15-tfsi-s-tronic-4811012/",
-    "data_aggiornamento": "2026-10-31T06:55:19.453262+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:33.675843+00:00"
   },
   {
     "modello": "AUDI Q3 sportback 35 1.5 tfsi s-tronic",
@@ -20589,7 +19962,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3-sportback/q3-sportback-35-15-tfsi-s-tronic-4811013/",
-    "data_aggiornamento": "2026-10-31T06:55:21.195644+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:35.397279+00:00"
   },
   {
     "modello": "AUDI Q3 sportback 35 1.5 tfsi s-tronic",
@@ -20645,7 +20018,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3-sportback/q3-sportback-35-15-tfsi-s-tronic-4815426/",
-    "data_aggiornamento": "2026-10-31T06:55:22.979594+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:37.158320+00:00"
   },
   {
     "modello": "AUDI Q3 sportback 35 2.0 tdi s line edition s-tronic",
@@ -20698,7 +20071,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3-sportback/q3-sportback-35-20-tdi-s-line-edition-s-tronic-4808442/",
-    "data_aggiornamento": "2026-10-31T06:55:24.734744+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:38.876085+00:00"
   },
   {
     "modello": "AUDI Q3 1.5 tfsi mhev business 150cv s-tronic",
@@ -20760,7 +20133,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-15-tfsi-mhev-business-150cv-s-tronic-4786533/",
-    "data_aggiornamento": "2026-10-31T06:55:26.470923+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:40.599666+00:00"
   },
   {
     "modello": "AUDI Q3 2.0 tdi business 150cv s-tronic",
@@ -20821,7 +20194,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-20-tdi-business-150cv-s-tronic-4714794/",
-    "data_aggiornamento": "2026-10-31T06:55:28.215262+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:42.324000+00:00"
   },
   {
     "modello": "AUDI Q3 35 1.5 tfsi business advanced s-tronic",
@@ -20874,7 +20247,7 @@
     ],
     "numero_accessori": 37,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-15-tfsi-business-advanced-s-tronic-4713767/",
-    "data_aggiornamento": "2026-10-31T06:55:29.952271+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:44.058240+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced quattro s-tronic",
@@ -20921,7 +20294,7 @@
     ],
     "numero_accessori": 31,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-quattro-s-tronic-4783621/",
-    "data_aggiornamento": "2026-10-31T06:55:31.764763+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:45.774994+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -20972,7 +20345,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4662028/",
-    "data_aggiornamento": "2026-10-31T06:55:33.527217+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:47.478611+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21023,7 +20396,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4720863/",
-    "data_aggiornamento": "2026-10-31T06:55:35.265479+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:49.213574+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21074,7 +20447,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4724971/",
-    "data_aggiornamento": "2026-10-31T06:55:37.007990+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:50.931133+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21125,7 +20498,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4740371/",
-    "data_aggiornamento": "2026-10-31T06:55:38.751010+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:52.654948+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21177,7 +20550,7 @@
     ],
     "numero_accessori": 36,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4740372/",
-    "data_aggiornamento": "2026-10-31T06:55:40.490836+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:54.356414+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21228,7 +20601,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4792753/",
-    "data_aggiornamento": "2026-10-31T06:55:42.255086+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:56.082293+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21280,7 +20653,7 @@
     ],
     "numero_accessori": 36,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4792754/",
-    "data_aggiornamento": "2026-10-31T06:55:43.993024+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:57.803584+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21331,61 +20704,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4792755/",
-    "data_aggiornamento": "2026-10-31T06:55:45.751179+00:00"
-  },
-  {
-    "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
-    "numero_pratica": "17167",
-    "alimentazione": "Gasolio",
-    "potenza": "150 CV(110 kW)",
-    "colore_esterno": "Nero",
-    "chilometraggio": "35.333 Km",
-    "chilometraggio_km": 35333,
-    "immatricolazione": "5/2024",
-    "prezzo_euro": 31500,
-    "accessori": [
-      "Audi pre sense front",
-      "Adaptive cruise control",
-      "Audi smartphone interface",
-      "Audi virtual cockpit plus",
-      "Avviso di corsia",
-      "Sistema di assistenza alla partenza",
-      "Divano posteriore plus",
-      "Parabrezza atermico ed acustico",
-      "Verniciatura a contrasto",
-      "Sensori luci e pioggia automatici",
-      "Presa 12 volt e 2 usb posteriori",
-      "Bracciolo anteriore comfort",
-      "Cerchi in lega 18'' a 5 razze",
-      "Ruota di scorta minispare",
-      "Clima automatico bizona",
-      "Proiettori full led",
-      "Mancorrenti in alluminio",
-      "Pacchetto cromo",
-      "Interni in look alluminio",
-      "Pacchetto luci interne a led",
-      "Navigatore mmi plus con mmi touch",
-      "Riconoscimento segnaletica stradale",
-      "Sensori parcheggio anteriori e posteriori",
-      "Superifici decorative nero lucido",
-      "Specchietti regolabili riscaldabili e ripiegabili",
-      "Specchietto interno antiabbagliamento",
-      "Vetri privacy",
-      "Volante in pelle 3 razze multifunzione plus",
-      "Disponibilità di",
-      "test drive",
-      "su strada, vi aspettiamo presso le nostre sedi di",
-      "Varese",
-      "e",
-      "Solbiate Olona",
-      ".",
-      "Valutiamo",
-      "permutiamo",
-      "il tuo usato, il nostro Staff è a tua disposizione per una valutazione personalizzata."
-    ],
-    "numero_accessori": 38,
-    "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4794669/",
-    "data_aggiornamento": "2026-10-31T06:55:47.489308+00:00"
+    "data_aggiornamento": "2026-11-01T07:00:59.540057+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21439,7 +20758,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4795651/",
-    "data_aggiornamento": "2026-10-31T06:55:49.297138+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:01.259651+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21450,7 +20769,7 @@
     "chilometraggio": "33.196 Km",
     "chilometraggio_km": 33196,
     "immatricolazione": "5/2024",
-    "prezzo_euro": 31500,
+    "prezzo_euro": 32800,
     "accessori": [
       "Audi pre sense front",
       "Adaptive cruise control",
@@ -21493,7 +20812,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4795652/",
-    "data_aggiornamento": "2026-10-31T06:55:51.030786+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:03.009735+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21544,7 +20863,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4795654/",
-    "data_aggiornamento": "2026-10-31T06:55:52.782488+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:04.747810+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business advanced s-tronic",
@@ -21595,7 +20914,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-advanced-s-tronic-4812218/",
-    "data_aggiornamento": "2026-10-31T06:55:54.521094+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:06.475010+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi business s-tronic",
@@ -21638,7 +20957,7 @@
     ],
     "numero_accessori": 27,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-business-s-tronic-4816218/",
-    "data_aggiornamento": "2026-10-31T06:55:56.269072+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:08.207230+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi s line edition s-tronic",
@@ -21695,7 +21014,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-s-line-edition-s-tronic-4702027/",
-    "data_aggiornamento": "2026-10-31T06:55:58.030051+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:09.919279+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi s line edition s-tronic",
@@ -21752,7 +21071,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-s-line-edition-s-tronic-4757701/",
-    "data_aggiornamento": "2026-10-31T06:55:59.771925+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:11.637318+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi s line edition s-tronic",
@@ -21809,7 +21128,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-s-line-edition-s-tronic-4790704/",
-    "data_aggiornamento": "2026-10-31T06:56:01.523565+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:13.354610+00:00"
   },
   {
     "modello": "AUDI Q3 35 2.0 tdi s line edition s-tronic",
@@ -21866,7 +21185,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-35-20-tdi-s-line-edition-s-tronic-4792853/",
-    "data_aggiornamento": "2026-10-31T06:56:03.270475+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:15.081500+00:00"
   },
   {
     "modello": "AUDI Q3 45 1.4 tfsi e s line edition s-tronic",
@@ -21927,7 +21246,7 @@
     ],
     "numero_accessori": 45,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-45-14-tfsi-e-s-line-edition-s-tronic-4706133/",
-    "data_aggiornamento": "2026-10-31T06:56:05.027950+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:16.829530+00:00"
   },
   {
     "modello": "AUDI Q3 45 1.4 tfsi e s line edition s-tronic",
@@ -21990,7 +21309,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-45-14-tfsi-e-s-line-edition-s-tronic-4714435/",
-    "data_aggiornamento": "2026-10-31T06:56:06.773722+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:18.558723+00:00"
   },
   {
     "modello": "AUDI Q3 45 1.4 tfsi e s line edition s-tronic",
@@ -22053,7 +21372,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-45-14-tfsi-e-s-line-edition-s-tronic-4750160/",
-    "data_aggiornamento": "2026-10-31T06:56:08.513899+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:20.270656+00:00"
   },
   {
     "modello": "AUDI Q3 45 1.4 tfsi e s line edition s-tronic",
@@ -22117,7 +21436,7 @@
     ],
     "numero_accessori": 48,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-45-14-tfsi-e-s-line-edition-s-tronic-4762794/",
-    "data_aggiornamento": "2026-10-31T06:56:10.251099+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:22.001165+00:00"
   },
   {
     "modello": "AUDI Q3 45 1.4 tfsi e s line edition s-tronic",
@@ -22180,7 +21499,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-45-14-tfsi-e-s-line-edition-s-tronic-4767891/",
-    "data_aggiornamento": "2026-10-31T06:56:11.985622+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:23.806550+00:00"
   },
   {
     "modello": "AUDI Q3 45 1.4 tfsi e s line edition s-tronic",
@@ -22258,7 +21577,7 @@
     ],
     "numero_accessori": 62,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q3/q3-45-14-tfsi-e-s-line-edition-s-tronic-4794445/",
-    "data_aggiornamento": "2026-10-31T06:56:13.761879+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:25.537592+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 2.0 e-hybrid s line edition quattro 299cv s-tronic",
@@ -22323,7 +21642,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-20-e-hybrid-s-line-edition-quattro-299cv-s-tronic-4786531/",
-    "data_aggiornamento": "2026-10-31T06:56:15.505370+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:27.254295+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 2.0 tdi mhev+ launch edition one quattro 204cv s-tronic",
@@ -22385,7 +21704,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-20-tdi-mhev-launch-edition-one-quattro-204cv-s-tronic-4733338/",
-    "data_aggiornamento": "2026-10-31T06:56:17.244140+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:29.012665+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 35 2.0 tdi mhev 12v s line plus s-tronic",
@@ -22441,7 +21760,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-35-20-tdi-mhev-12v-s-line-plus-s-tronic-4714436/",
-    "data_aggiornamento": "2026-10-31T06:56:18.978666+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:30.735851+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v identity black quattro s-tronic",
@@ -22513,7 +21832,7 @@
     ],
     "numero_accessori": 56,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-identity-black-quattro-s-tronic-4621074/",
-    "data_aggiornamento": "2026-10-31T06:56:20.862545+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:32.457538+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v identity black quattro s-tronic",
@@ -22580,7 +21899,7 @@
     ],
     "numero_accessori": 51,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-identity-black-quattro-s-tronic-4791559/",
-    "data_aggiornamento": "2026-10-31T06:56:22.597814+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:34.171986+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v quattro s-tronic",
@@ -22591,7 +21910,7 @@
     "chilometraggio": "7.687 Km",
     "chilometraggio_km": 7687,
     "immatricolazione": "2/2024",
-    "prezzo_euro": 46900,
+    "prezzo_euro": 48900,
     "accessori": [
       "Assistente di fermata",
       "Audi drive select",
@@ -22637,7 +21956,7 @@
     ],
     "numero_accessori": 41,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-quattro-s-tronic-4707441/",
-    "data_aggiornamento": "2026-10-31T06:56:24.337387+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:35.901778+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v s line plus quattro s-tronic",
@@ -22686,7 +22005,7 @@
     ],
     "numero_accessori": 33,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-s-line-plus-quattro-s-tronic-4760851/",
-    "data_aggiornamento": "2026-10-31T06:56:26.098893+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:37.607851+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v s line plus quattro s-tronic",
@@ -22749,7 +22068,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-s-line-plus-quattro-s-tronic-4771467/",
-    "data_aggiornamento": "2026-10-31T06:56:27.835019+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:39.356276+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v s line plus quattro s-tronic",
@@ -22798,7 +22117,7 @@
     ],
     "numero_accessori": 33,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-s-line-plus-quattro-s-tronic-4808523/",
-    "data_aggiornamento": "2026-10-31T06:56:29.574272+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:41.079996+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -22853,7 +22172,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4678309/",
-    "data_aggiornamento": "2026-10-31T06:56:31.310524+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:42.801771+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -22908,7 +22227,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4679855/",
-    "data_aggiornamento": "2026-10-31T06:56:33.053549+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:44.515277+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -22963,7 +22282,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4740610/",
-    "data_aggiornamento": "2026-10-31T06:56:34.794605+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:46.222976+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -22974,7 +22293,7 @@
     "chilometraggio": "28.518 Km",
     "chilometraggio_km": 28518,
     "immatricolazione": "1/2025",
-    "prezzo_euro": 44900,
+    "prezzo_euro": 47900,
     "accessori": [
       "Audi drive select",
       "Assistente di fermata",
@@ -23018,7 +22337,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4740611/",
-    "data_aggiornamento": "2026-10-31T06:56:36.545482+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:47.943348+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -23029,7 +22348,7 @@
     "chilometraggio": "27.933 Km",
     "chilometraggio_km": 27933,
     "immatricolazione": "1/2025",
-    "prezzo_euro": 46500,
+    "prezzo_euro": 48900,
     "accessori": [
       "Audi drive select",
       "Assistente di fermata",
@@ -23073,7 +22392,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4767892/",
-    "data_aggiornamento": "2026-10-31T06:56:38.282320+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:49.695254+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -23127,7 +22446,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4771472/",
-    "data_aggiornamento": "2026-10-31T06:56:40.059368+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:51.427937+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -23138,7 +22457,7 @@
     "chilometraggio": "22.375 Km",
     "chilometraggio_km": 22375,
     "immatricolazione": "6/2023",
-    "prezzo_euro": 39900,
+    "prezzo_euro": 41500,
     "accessori": [
       "Assistente di fermata",
       "Audi active lane assist",
@@ -23182,7 +22501,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4794670/",
-    "data_aggiornamento": "2026-10-31T06:56:41.793339+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:53.157106+00:00"
   },
   {
     "modello": "AUDI Q5 sportback 40 2.0 tfsi mhev 12v s line quattro s-tronic",
@@ -23233,7 +22552,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5-sportback/q5-sportback-40-20-tfsi-mhev-12v-s-line-quattro-s-tronic-4743351/",
-    "data_aggiornamento": "2026-10-31T06:56:43.520834+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:54.895814+00:00"
   },
   {
     "modello": "AUDI Q5 2.0 e-hybrid s line edition quattro 299cv s-tronic",
@@ -23293,7 +22612,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-20-e-hybrid-s-line-edition-quattro-299cv-s-tronic-4786532/",
-    "data_aggiornamento": "2026-10-31T06:56:45.263217+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:56.621083+00:00"
   },
   {
     "modello": "AUDI Q5 2.0 tdi mhev+ launch edition one quattro 204cv s-tronic",
@@ -23355,7 +22674,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-20-tdi-mhev-launch-edition-one-quattro-204cv-s-tronic-4733337/",
-    "data_aggiornamento": "2026-10-31T06:56:47.002849+00:00"
+    "data_aggiornamento": "2026-11-01T07:01:58.333104+00:00"
   },
   {
     "modello": "AUDI Q5 2.0 tdi mhev+ s line edition quattro 204cv s-tronic",
@@ -23413,7 +22732,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-20-tdi-mhev-s-line-edition-quattro-204cv-s-tronic-4758607/",
-    "data_aggiornamento": "2026-10-31T06:56:48.747347+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:00.081597+00:00"
   },
   {
     "modello": "AUDI Q5 2.0 tdi mhev+ s line edition quattro 204cv s-tronic",
@@ -23475,7 +22794,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-20-tdi-mhev-s-line-edition-quattro-204cv-s-tronic-4806841/",
-    "data_aggiornamento": "2026-10-31T06:56:50.502200+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:01.806214+00:00"
   },
   {
     "modello": "AUDI Q5 2.0 tdi mhev+ s line edition quattro 204cv s-tronic",
@@ -23533,7 +22852,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-20-tdi-mhev-s-line-edition-quattro-204cv-s-tronic-4808522/",
-    "data_aggiornamento": "2026-10-31T06:56:52.256221+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:03.521338+00:00"
   },
   {
     "modello": "AUDI Q5 2.0 tdi mhev+ s line edition quattro 204cv s-tronic",
@@ -23591,7 +22910,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-20-tdi-mhev-s-line-edition-quattro-204cv-s-tronic-4817414/",
-    "data_aggiornamento": "2026-10-31T06:56:54.009336+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:05.427931+00:00"
   },
   {
     "modello": "AUDI Q5 35 2.0 tdi mhev 12v s line plus s-tronic",
@@ -23656,7 +22975,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-35-20-tdi-mhev-12v-s-line-plus-s-tronic-4714432/",
-    "data_aggiornamento": "2026-10-31T06:56:55.851283+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:07.140783+00:00"
   },
   {
     "modello": "AUDI Q5 40 2.0 tdi mhev 12v identity black quattro s-tronic",
@@ -23714,7 +23033,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-40-20-tdi-mhev-12v-identity-black-quattro-s-tronic-4771468/",
-    "data_aggiornamento": "2026-10-31T06:56:57.604105+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:08.869636+00:00"
   },
   {
     "modello": "AUDI Q5 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -23725,7 +23044,7 @@
     "chilometraggio": "29.101 Km",
     "chilometraggio_km": 29101,
     "immatricolazione": "1/2025",
-    "prezzo_euro": 44900,
+    "prezzo_euro": 47900,
     "accessori": [
       "Assistente di fermata",
       "Audi active lane assist",
@@ -23772,7 +23091,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4701147/",
-    "data_aggiornamento": "2026-10-31T06:56:59.336425+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:10.594498+00:00"
   },
   {
     "modello": "AUDI Q5 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -23838,7 +23157,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4740609/",
-    "data_aggiornamento": "2026-10-31T06:57:01.072623+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:12.308501+00:00"
   },
   {
     "modello": "AUDI Q5 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -23896,7 +23215,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4768278/",
-    "data_aggiornamento": "2026-10-31T06:57:02.809378+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:14.029568+00:00"
   },
   {
     "modello": "AUDI Q5 40 2.0 tdi mhev 12v s line quattro s-tronic",
@@ -23907,7 +23226,7 @@
     "chilometraggio": "33.141 Km",
     "chilometraggio_km": 33141,
     "immatricolazione": "9/2024",
-    "prezzo_euro": 40500,
+    "prezzo_euro": 41500,
     "accessori": [
       "Assistente di fermata",
       "Audi active lane assist",
@@ -23954,7 +23273,7 @@
     ],
     "numero_accessori": 42,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-40-20-tdi-mhev-12v-s-line-quattro-s-tronic-4771470/",
-    "data_aggiornamento": "2026-10-31T06:57:04.551567+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:15.772050+00:00"
   },
   {
     "modello": "AUDI Q5 50 2.0 tfsi e business advanced quattro s-tronic",
@@ -23965,7 +23284,7 @@
     "chilometraggio": "24.137 Km",
     "chilometraggio_km": 24137,
     "immatricolazione": "9/2023",
-    "prezzo_euro": 42500,
+    "prezzo_euro": 43900,
     "accessori": [
       "Assistente di fermata",
       "Audi active lane assist",
@@ -24014,7 +23333,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q5/q5-50-20-tfsi-e-business-advanced-quattro-s-tronic-4794671/",
-    "data_aggiornamento": "2026-10-31T06:57:06.404884+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:17.510546+00:00"
   },
   {
     "modello": "AUDI Q6 e-tron s line edition quattro 387cv",
@@ -24070,7 +23389,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q6-e-tron/q6-e-tron-s-line-edition-quattro-387cv-4813984/",
-    "data_aggiornamento": "2026-10-31T06:57:08.142306+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:19.239661+00:00"
   },
   {
     "modello": "AUDI Q6 sportback e-tron s line edition quattro 387cv",
@@ -24126,7 +23445,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q6-sportback-e-tron/q6-sportback-e-tron-s-line-edition-quattro-387cv-4806842/",
-    "data_aggiornamento": "2026-10-31T06:57:09.884201+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:21.102498+00:00"
   },
   {
     "modello": "AUDI Q7 3.0 tdi mhev s line edition quattro 286cv tiptronic 7p.ti",
@@ -24189,7 +23508,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q7/q7-30-tdi-mhev-s-line-edition-quattro-286cv-tiptronic-7pti-4727778/",
-    "data_aggiornamento": "2026-10-31T06:57:11.622479+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:22.822320+00:00"
   },
   {
     "modello": "AUDI Q7 3.0 tdi mhev s line edition quattro 286cv tiptronic 7p.ti",
@@ -24248,7 +23567,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q7/q7-30-tdi-mhev-s-line-edition-quattro-286cv-tiptronic-7pti-4745436/",
-    "data_aggiornamento": "2026-10-31T06:57:13.357641+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:24.546087+00:00"
   },
   {
     "modello": "AUDI Q7 3.0 tdi mhev s line edition quattro 286cv tiptronic 7p.ti",
@@ -24311,7 +23630,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q7/q7-30-tdi-mhev-s-line-edition-quattro-286cv-tiptronic-7pti-4815968/",
-    "data_aggiornamento": "2026-10-31T06:57:15.112728+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:26.277058+00:00"
   },
   {
     "modello": "AUDI Q8 3.0 e-hybrid s line plus quattro 490cv tiptronic",
@@ -24367,7 +23686,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q8/q8-30-e-hybrid-s-line-plus-quattro-490cv-tiptronic-4786537/",
-    "data_aggiornamento": "2026-10-31T06:57:16.843505+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:27.989882+00:00"
   },
   {
     "modello": "AUDI Q8 3.0 tdi mhev s line edition quattro 286cv tiptronic",
@@ -24426,7 +23745,7 @@
     ],
     "numero_accessori": 43,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q8/q8-30-tdi-mhev-s-line-edition-quattro-286cv-tiptronic-4745437/",
-    "data_aggiornamento": "2026-10-31T06:57:18.583464+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:29.706528+00:00"
   },
   {
     "modello": "AUDI Q8 3.0 tdi mhev s line edition quattro 286cv tiptronic",
@@ -24488,7 +23807,7 @@
     ],
     "numero_accessori": 46,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q8/q8-30-tdi-mhev-s-line-edition-quattro-286cv-tiptronic-4750163/",
-    "data_aggiornamento": "2026-10-31T06:57:20.372273+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:31.446362+00:00"
   },
   {
     "modello": "AUDI Q8 3.0 tdi mhev s line edition quattro 286cv tiptronic",
@@ -24570,7 +23889,7 @@
     ],
     "numero_accessori": 66,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q8/q8-30-tdi-mhev-s-line-edition-quattro-286cv-tiptronic-4794664/",
-    "data_aggiornamento": "2026-10-31T06:57:22.103797+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:33.180813+00:00"
   },
   {
     "modello": "AUDI Q8 3.0 tdi mhev s line edition quattro 286cv tiptronic",
@@ -24626,7 +23945,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q8/q8-30-tdi-mhev-s-line-edition-quattro-286cv-tiptronic-4815967/",
-    "data_aggiornamento": "2026-10-31T06:57:23.868012+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:34.891217+00:00"
   },
   {
     "modello": "AUDI Q8 50 3.0 tdi mhev sport quattro tiptronic",
@@ -24637,7 +23956,7 @@
     "chilometraggio": "39.016 Km",
     "chilometraggio_km": 39016,
     "immatricolazione": "6/2022",
-    "prezzo_euro": 55900,
+    "prezzo_euro": 58900,
     "accessori": [
       "Audi pre sense front con assistente di fermata",
       "Audi pre sense rear",
@@ -24692,7 +24011,7 @@
     ],
     "numero_accessori": 50,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q8/q8-50-30-tdi-mhev-sport-quattro-tiptronic-4794672/",
-    "data_aggiornamento": "2026-10-31T06:57:25.619605+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:36.605595+00:00"
   },
   {
     "modello": "AUDI Rs q8 4.0 mhev 48v performance 640cv tiptronic",
@@ -24757,7 +24076,7 @@
     ],
     "numero_accessori": 49,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q8/rs-q8-40-mhev-48v-performance-640cv-tiptronic-4747939/",
-    "data_aggiornamento": "2026-10-31T06:57:27.377309+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:38.337578+00:00"
   },
   {
     "modello": "AUDI Rs q8 4.0 mhev 48v performance 640cv tiptronic",
@@ -24825,7 +24144,7 @@
     ],
     "numero_accessori": 52,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q8/rs-q8-40-mhev-48v-performance-640cv-tiptronic-4754083/",
-    "data_aggiornamento": "2026-10-31T06:57:29.141012+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:40.061704+00:00"
   },
   {
     "modello": "AUDI Rs q8 4.0 mhev 48v performance 640cv tiptronic",
@@ -24885,7 +24204,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/q8/rs-q8-40-mhev-48v-performance-640cv-tiptronic-4793514/",
-    "data_aggiornamento": "2026-10-31T06:57:30.888619+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:41.776300+00:00"
   },
   {
     "modello": "AUDI Rs4 avant 2.9 tfsi 25 years quattro 470cv tiptronic",
@@ -24940,7 +24259,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/rs4-avant/rs4-avant-29-tfsi-25-years-quattro-470cv-tiptronic-4745438/",
-    "data_aggiornamento": "2026-10-31T06:57:32.678128+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:43.492965+00:00"
   },
   {
     "modello": "AUDI Rs5 sportback 2.9 tfsi performance edition quattro 470cv tiptronic",
@@ -25020,7 +24339,7 @@
     ],
     "numero_accessori": 64,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/rs5-sportback/rs5-sportback-29-tfsi-performance-edition-quattro-470cv-tiptronic-4586628/",
-    "data_aggiornamento": "2026-10-31T06:57:34.421109+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:45.217015+00:00"
   },
   {
     "modello": "AUDI S3 sportback 2.0 tfsi quattro s-tronic",
@@ -25031,7 +24350,7 @@
     "chilometraggio": "11.330 Km",
     "chilometraggio_km": 11330,
     "immatricolazione": "7/2024",
-    "prezzo_euro": 44900,
+    "prezzo_euro": 46900,
     "accessori": [
       "Assistente di fermata",
       "Audi sound system",
@@ -25083,7 +24402,7 @@
     ],
     "numero_accessori": 47,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/s3-sportback/s3-sportback-20-tfsi-quattro-s-tronic-4794673/",
-    "data_aggiornamento": "2026-10-31T06:57:36.170908+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:46.978213+00:00"
   },
   {
     "modello": "AUDI S5 avant 3.0 tfsi mhev+ sport attitude quattro 367cv s-tronic",
@@ -25139,7 +24458,7 @@
     ],
     "numero_accessori": 40,
     "url": "https://www.wendecar.it/ricerca-auto/usate/audi/s5-avant/s5-avant-30-tfsi-mhev-sport-attitude-quattro-367cv-s-tronic-4815966/",
-    "data_aggiornamento": "2026-10-31T06:57:37.931781+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:48.702132+00:00"
   },
   {
     "modello": "CUPRA Born 58kwh impulse+",
@@ -25189,7 +24508,7 @@
     ],
     "numero_accessori": 34,
     "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/born/born-58kwh-impulse--4793520/",
-    "data_aggiornamento": "2026-10-31T06:57:39.663253+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:50.424266+00:00"
   },
   {
     "modello": "CUPRA Born 58kwh impulse",
@@ -25244,7 +24563,7 @@
     ],
     "numero_accessori": 39,
     "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/born/born-58kwh-impulse-4806754/",
-    "data_aggiornamento": "2026-10-31T06:57:41.400439+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:52.135346+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-hybrid 204cv dsg",
@@ -25304,7 +24623,7 @@
     ],
     "numero_accessori": 44,
     "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/formentor/formentor-15-e-hybrid-204cv-dsg-4805242/",
-    "data_aggiornamento": "2026-10-31T06:57:43.139291+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:53.857395+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 e-hybrid business 204cv dsg",
@@ -25351,7 +24670,7 @@
     ],
     "numero_accessori": 31,
     "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/formentor/formentor-15-e-hybrid-business-204cv-dsg-4757696/",
-    "data_aggiornamento": "2026-10-31T06:57:44.880240+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:55.582872+00:00"
   },
   {
     "modello": "CUPRA Formentor 1.5 hybrid tribe edition 150cv dsg",
@@ -25405,65 +24724,7 @@
     ],
     "numero_accessori": 38,
     "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/formentor/formentor-15-hybrid-tribe-edition-150cv-dsg-4805029/",
-    "data_aggiornamento": "2026-10-31T06:57:46.613974+00:00"
-  },
-  {
-    "modello": "CUPRA Formentor 1.5 tsi 150cv dsg",
-    "numero_pratica": "19656",
-    "alimentazione": "Benzina",
-    "potenza": "150 CV(110 kW)",
-    "colore_esterno": "verde camouflage",
-    "chilometraggio": "44.331 Km",
-    "chilometraggio_km": 44331,
-    "immatricolazione": "2/2023",
-    "prezzo_euro": 24500,
-    "accessori": [
-      "Adaptive Cruise Control (ACC) con regolazione della distanza e follow to stop",
-      "Antifurto volumetrico con allarme antirimorchio",
-      "Apertura comfort portellone posteriore (Virtual Pedal)",
-      "Assistente al parcheggio (Park Assist)",
-      "Assistente alla svolta, alle manovre di schivamento e assistente città",
-      "Cerchi in lega da 19\" Sandstorm Nero",
-      "Climatizzatore automatico Climatronic a 3 zone",
-      "CUPRA CONNECT gen3 (Sicurezza, Service, Accesso remoto e Infotainment online)",
-      "Cruscotto digitale (Virtual Cockpit)",
-      "Fari Full LED con lente e fanali posteriori a LED con indicatori dinamici",
-      "Fari fendinebbia",
-      "Front Assist con frenata d'emergenza",
-      "Lane Assist (Mantenimento corsia)",
-      "Pacchetto Safe & Driving XL per navigatore",
-      "Retrocamera",
-      "Ricarica wireless per smartphone con LTE",
-      "Ricognitore di stanchezza",
-      "Riconoscimento della segnaletica stradale",
-      "Ruotino di scorta da 18\"",
-      "Sedili anteriori riscaldabili",
-      "Sedili sportivi avvolgenti \"Bucket\" in tessuto Nero",
-      "Selezione stile di guida (Drive Profile)",
-      "Sensore luci e pioggia",
-      "Side Assist (Angolo cieco), Exit Warning e assistente uscita parcheggio",
-      "Sistema Keyless Advanced",
-      "Sistema di navigazione Plus da 12\"",
-      "Specchietti retrovisori ripiegabili e riscaldabili elettricamente con funzione Memory e cordolo",
-      "Specchietto interno schermabile automaticamente",
-      "Sterzo dinamico",
-      "Travel Assist (Mantenimento corsia, Emergency Assist e Traffic Jam Assist)",
-      "Vetri posteriori oscurati",
-      "Volante sportivo multifunzione in pelle riscaldabile con Tiptronic",
-      "Wired & Wireless App-Connect (Full Link)",
-      "Disponibilità di",
-      "test drive",
-      "su strada, vi aspettiamo presso la nostra sede di",
-      "Varese",
-      ".",
-      "Valutiamo",
-      "e",
-      "permutiamo",
-      "il tuo usato, il nostro Staff è a tua disposizione per una valutazione personalizzata."
-    ],
-    "numero_accessori": 42,
-    "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/formentor/formentor-15-tsi-150cv-dsg-4802863/",
-    "data_aggiornamento": "2026-10-31T06:57:48.353389+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:57.304225+00:00"
   },
   {
     "modello": "CUPRA Leon sportstourer 1.5 e-hybrid business 204cv dsg",
@@ -25509,7 +24770,7 @@
     ],
     "numero_accessori": 30,
     "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/leon-sportstourer/leon-sportstourer-15-e-hybrid-business-204cv-dsg-4794057/",
-    "data_aggiornamento": "2026-10-31T06:57:50.089513+00:00"
+    "data_aggiornamento": "2026-11-01T07:02:59.032038+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 hybrid 150cv dsg",
@@ -25556,7 +24817,7 @@
     ],
     "numero_accessori": 31,
     "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/leon/leon-15-hybrid-150cv-dsg-4756862/",
-    "data_aggiornamento": "2026-10-31T06:57:51.840953+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:00.779577+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 hybrid edge 150cv dsg",
@@ -25607,7 +24868,7 @@
     ],
     "numero_accessori": 35,
     "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/leon/leon-15-hybrid-edge-150cv-dsg-4793515/",
-    "data_aggiornamento": "2026-10-31T06:57:53.576964+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:02.506919+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 tsi edge 150cv",
@@ -25659,7 +24920,7 @@
     ],
     "numero_accessori": 36,
     "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/leon/leon-15-tsi-edge-150cv-4786534/",
-    "data_aggiornamento": "2026-10-31T06:57:55.310260+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:04.244707+00:00"
   },
   {
     "modello": "CUPRA Leon 1.5 tsi edge 150cv",
@@ -25711,57 +24972,7 @@
     ],
     "numero_accessori": 36,
     "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/leon/leon-15-tsi-edge-150cv-4786535/",
-    "data_aggiornamento": "2026-10-31T06:57:57.051252+00:00"
-  },
-  {
-    "modello": "CUPRA Terramar 1.5 e-hybrid impulse 204cv dsg",
-    "numero_pratica": "10680",
-    "alimentazione": "Plug-In Hybrid",
-    "potenza": "204 CV(150 kW)",
-    "colore_esterno": "Midnight black",
-    "chilometraggio": "7.500 Km",
-    "chilometraggio_km": 7500,
-    "immatricolazione": "3/2026",
-    "prezzo_euro": 38500,
-    "accessori": [
-      "Apertura comfort portellone (pedaleria virtuale)",
-      "Assistente città",
-      "Cerchi in lega da 20\" Hadron",
-      "Climatronic a 3 zone",
-      "CUPRA Matrix LED ultra",
-      "Display multifunzione/computer di bordo medium",
-      "Fari fendinebbia e luci di svolta dinamiche",
-      "Keyless Advanced",
-      "Matrix Beam ad alta definizione",
-      "Regolazione automatica della distanza",
-      "Regolazione elettrica sedili anteriori con funzione Memory",
-      "Riconoscimento della segnaletica stradale",
-      "Riscaldamento sedili anteriori",
-      "Sedili anteriori sportivi",
-      "Sensore luci e pioggia",
-      "Sensori di parcheggio anteriori e posteriori con retrocamera",
-      "Sistema di ricarica wireless per smartphone",
-      "Sistema di trazione ibrido PHEV",
-      "Sistema Infotainment MIB3",
-      "Specchietti esterni ripiegabili elettricamente con funzione memoria",
-      "Sterzo dinamico",
-      "Supporto lombare regolabile elettricamente",
-      "Vetri posteriori oscurati (Privacy glass)",
-      "Volante multifunzionale sportivo in pelle riscaldabile con bilancieri",
-      "Wired & Wireless App-Connect",
-      "Disponibilità di",
-      "test drive",
-      "su strada, vi aspettiamo presso la nostra sede di",
-      "Varese",
-      ".",
-      "Valutiamo",
-      "e",
-      "permutiamo",
-      "il tuo usato, il nostro Staff è a tua disposizione per una valutazione personalizzata."
-    ],
-    "numero_accessori": 34,
-    "url": "https://www.wendecar.it/ricerca-auto/usate/cupra/terramar/terramar-15-e-hybrid-impulse-204cv-dsg-4701051/",
-    "data_aggiornamento": "2026-10-31T06:57:58.806302+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:05.972390+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 ecotsi black edition 115cv dsg",
@@ -25806,7 +25017,7 @@
     ],
     "numero_accessori": 29,
     "url": "https://www.wendecar.it/ricerca-auto/usate/seat/arona/arona-10-ecotsi-black-edition-115cv-dsg-4805243/",
-    "data_aggiornamento": "2026-10-31T06:58:00.582293+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:07.703570+00:00"
   },
   {
     "modello": "SEAT Arona 1.0 ecotsi black edition 95cv",
@@ -25846,7 +25057,7 @@
     ],
     "numero_accessori": 24,
     "url": "https://www.wendecar.it/ricerca-auto/usate/seat/arona/arona-10-ecotsi-black-edition-95cv-4754214/",
-    "data_aggiornamento": "2026-10-31T06:58:02.324134+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:09.434174+00:00"
   },
   {
     "modello": "SEAT Ateca 1.5 ecotsi black edition 150cv dsg",
@@ -25894,7 +25105,7 @@
     ],
     "numero_accessori": 32,
     "url": "https://www.wendecar.it/ricerca-auto/usate/seat/ateca/ateca-15-ecotsi-black-edition-150cv-dsg-4699860/",
-    "data_aggiornamento": "2026-10-31T06:58:04.079215+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:11.155003+00:00"
   },
   {
     "modello": "SEAT Ateca 2.0 tdi black edition 150cv dsg",
@@ -25940,7 +25151,7 @@
     ],
     "numero_accessori": 30,
     "url": "https://www.wendecar.it/ricerca-auto/usate/seat/ateca/ateca-20-tdi-black-edition-150cv-dsg-4756796/",
-    "data_aggiornamento": "2026-10-31T06:58:05.846527+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:12.872365+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 ecotsi black edition 95cv",
@@ -25981,7 +25192,7 @@
     ],
     "numero_accessori": 25,
     "url": "https://www.wendecar.it/ricerca-auto/usate/seat/ibiza/ibiza-10-ecotsi-black-edition-95cv-4722017/",
-    "data_aggiornamento": "2026-10-31T06:58:07.589983+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:14.650310+00:00"
   },
   {
     "modello": "SEAT Ibiza 1.0 ecotsi fr 95cv",
@@ -26028,7 +25239,7 @@
     ],
     "numero_accessori": 31,
     "url": "https://www.wendecar.it/ricerca-auto/usate/seat/ibiza/ibiza-10-ecotsi-fr-95cv-4754215/",
-    "data_aggiornamento": "2026-10-31T06:58:09.325210+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:16.361103+00:00"
   },
   {
     "modello": "SEAT Leon 1.5 hybrid business 116cv dsg",
@@ -26072,6 +25283,6 @@
     ],
     "numero_accessori": 28,
     "url": "https://www.wendecar.it/ricerca-auto/usate/seat/leon/leon-15-hybrid-business-116cv-dsg-4757418/",
-    "data_aggiornamento": "2026-10-31T06:58:11.074866+00:00"
+    "data_aggiornamento": "2026-11-01T07:03:18.062658+00:00"
   }
 ]
